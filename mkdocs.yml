@@ -1,3 +1,9 @@
 site_name: WM Docs
 theme:
   name: material
+
+plugins:
+  - search
+  - encryptcontent:
+      title_prefix: "[? Protetto]"
+      encrypt_by_default: false  # Solo file con metadato 'password' verranno protetti
