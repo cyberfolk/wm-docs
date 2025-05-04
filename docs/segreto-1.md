@@ -3,4 +3,4 @@ password: alfa123
 ---
 
 # Documento Segreto 1
-Questo file è protetto da password.
+Questo file Ã¨ protetto da password.

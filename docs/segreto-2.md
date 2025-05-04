@@ -3,4 +3,4 @@ password: beta456
 ---
 
 # Documento Segreto 2
-Anche questo file è protetto da un'altra password.
+Anche questo file Ã¨ protetto da un'altra password.
