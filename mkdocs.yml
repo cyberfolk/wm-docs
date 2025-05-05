@@ -1,8 +1,37 @@
 site_name: WM Docs
+site_url: https://cyberfolk.github.io/wm-docs
+repo_url: https://github.com/cyberfolk/wm-docs
+repo_name: wm-docs
+
+extra_css:
+  - styles/extra.css
+
 theme:
   name: material
+  language: it
+  features:
+    - content.code.copy
+    - content.action.edit
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - content.tabs.link
 
 plugins:
   - search
   - encryptcontent:
-      title_prefix: "[? Protetto]"
+      title_prefix: "[DM] "
+      global_password: null  # Nessuna password globale
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.emoji
+  - pymdownx.keys
+  - pymdownx.tasklist
