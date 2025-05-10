@@ -1,0 +1,1087 @@
+
+<!doctype html>
+<html lang="it" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://cyberfolk.github.io/wm-docs/dm/02-trama/">
+      
+      
+        <link rel="prev" href="../..">
+      
+      
+        <link rel="next" href="../03-struttura-finemondo/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.13">
+    
+    
+      
+        <title>Trama - WM Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../styles/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#trama" class="md-skip">
+          Vai al contenuto
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Intestazione">
+    <a href="../.." title="WM Docs" class="md-header__button md-logo" aria-label="WM Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            WM Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Trama
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Cerca" placeholder="Cerca" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Cerca">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Cancella" aria-label="Cancella" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inizializza la ricerca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/cyberfolk/wm-docs" title="Apri repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    wm-docs
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  
+  Dm
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../player/00-trama/" class="md-tabs__link">
+          
+  
+  
+  Player
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigazione" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="WM Docs" class="md-nav__button md-logo" aria-label="WM Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    WM Docs
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/cyberfolk/wm-docs" title="Apri repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    wm-docs
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Dm
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Dm
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Trama
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Trama
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Indice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#in-breve" class="md-nav__link">
+    <span class="md-ellipsis">
+      In breve
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#estesa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Estesa
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Estesa">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#la-creazione-delle-piccole-gemme" class="md-nav__link">
+    <span class="md-ellipsis">
+      La Creazione delle Piccole Gemme
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#le-voragini" class="md-nav__link">
+    <span class="md-ellipsis">
+      Le Voragini
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#la-crociata-temporale" class="md-nav__link">
+    <span class="md-ellipsis">
+      La Crociata Temporale
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#il-protocollo-ultimo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Il Protocollo Ultimo
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#il-finemondo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Il Finemondo
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nascita-della-forza-arcana" class="md-nav__link">
+    <span class="md-ellipsis">
+      Nascita della Forza Arcana
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nascita della Forza Arcana">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#focus-forza-arcana" class="md-nav__link">
+    <span class="md-ellipsis">
+      Focus - Forza arcana
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schema" class="md-nav__link">
+    <span class="md-ellipsis">
+      Schema
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-struttura-finemondo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Struttura Finemondo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-abitanti-finemondo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Abitanti Finemondo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05-squadra-eletta-eterno-malvagio/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Squadra Eletta e Eterno Malvagio
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06-domande-pg-eterno/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Domande PG → Eterno
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../07-px-px%25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    PX e PX%
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10-regioni/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Regioni Principi Base
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11-tier/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    11 tier
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../99-problematiche/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Problematiche
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Player
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Player
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../player/00-trama/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Trama
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../player/01-ddi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dichiarazione d'intenti
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../player/02-creazione-pg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Creazione PG
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../player/03-gettoni-arcani/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gettoni Arcani
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../player/04-esplorazione/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Esplorazione
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+    <a href="https://github.com/cyberfolk/wm-docs/edit/master/docs/dm/02-trama.md" title="Modifica" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="trama">Trama</h1>
+<h2 id="in-breve">In breve</h2>
+<p>Il mondo dove i PG andranno a giocare questa campagna è una <strong>singolarità temporale</strong> posta alla fine dei tempi del
+multiverso. Milioni di anni nel futuro per motivi ancora ignoti gli universi collassarono gli uni sugli altri, e il
+tessuto temporale iniziò a sbriciolarsi.</p>
+<p>I giocatori, di qualunque ambientazione e di qualunque tempo, verranno rapiti da una <strong>forza magica sconosciuta</strong> che li
+porterà nel "<strong>Fine-Mondo</strong>". Questa forza rapisce i PG nella speranza che riescano a riparare il tempo. Ma i PG tutto
+questo non lo sanno, sanno solo di essere stati rapiti e catapultati in un mondo che non è il loro. Tutto il resto lo
+impareranno viaggiando tra le rovine dei vari universi collassati tra di loro. Una <strong>scelta cruciale</strong> che i PG dovranno
+prendere sarà se ricostruire il tempo oppure distruggerlo del tutto per farlo ripartire.</p>
+<h2 id="estesa">Estesa</h2>
+<p>Fin dall'alba dei tempi c'è sempre stato qualcuno particolarmente ossessionato dal concetto del tempo. Chi ha provato ad
+ingannarlo e chi ha provato a governarlo.</p>
+<p>Con il passare delle ere si è formata un'organizzazione segreta con l'obiettivo del dominio del tempo. Imparare le sue
+leggi, i suoi segreti e poterlo manipolare a piacimento. Dopo molti anni e dopo innumerevoli sacrifici costoro
+riuscirono a strappare una parte del tempo ed imbrigliarlo in una <strong>Gemma</strong>.</p>
+<p>Questo potere nelle loro mani cambiò radicalmente il destino del mondo. Per innumerevoli anni questi uomini ricoprirono
+le cariche più importanti della società, muovendosi nell'ombra e arricchendosi a dismisura.</p>
+<h3 id="la-creazione-delle-piccole-gemme">La Creazione delle Piccole Gemme</h3>
+<p>Erano riusciti ad imbrigliare una parte del tempo all'interno di una <strong>Grande Gemma</strong>, che sprigionava una luce blu
+pulsante. <em>La gemma era viva ma questo loro non lo sapevano</em>. Passarono molti anni e dopo innumerevoli esperimenti sulla
+gemma, riuscirono a frammentare il suo potere in tante altre gemme più piccole e dai poteri più limitati le quali furono
+divise tra i membri dell'organizzazione. Loro non lo sapevano ma così facendo diedero alla luce tanti piccoli Avatar del
+Tempo, ognuno dei quali imprigionato all'interno di queste <strong>Piccole Gemme</strong> e tutti quanti bramosi di vendetta. Poi
+iniziarono ad esserci i primi malfunzionamenti.</p>
+<h3 id="le-voragini">Le Voragini</h3>
+<p>Per molti anni questi uomini cercarono di arginare i danni causati dai malfunzionamenti</p>
+<p>C'era chi andava a dire in giro che il tempo era impazzito e voleva vendicarsi sugli uomini. Chi andava a predicare
+questa eresia veniva messo al rogo come eretico. Ma questi non erano né pazzi né eretici, erano dei visionari e avevano
+ragione. Ma poi questi malfunzionamenti si fecero sempre più gravi fino a che si aprirono le prime <strong>Voragini</strong> dalle
+quali uscirono
+gli <a href="https://www.google.com/search?q=Eldrazi&amp;rlz=1C1CHBF_itIT918IT919&amp;sxsrf=ALiCzsY7VoLvcjkYTRtYVwA5f8qgPm1qfA:1660120882981&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi5hY6c8Lv5AhVEiv0HHbNMBywQ_AUoAXoECAIQAw&amp;biw=1366&amp;bih=625&amp;dpr=1">Eldrazi</a>,
+i più fortunati venivano risucchiati dalle voragini e spediti
+nel <a href="https://docs.google.com/document/d/12q_kbx_nq69tsjqRfSlPmmNfVyUc7Wvf/edit#heading=h.5ilxe8ph362j">Finemondo</a> mentre
+i più sfortunati venivano divorati dagli <strong>Eldrazi</strong>.</p>
+<p>Le Voragini si espandono a chiazze nel piano materiale. Se ne apre una grossa e poi pian piano intorno se ne aprono di
+secondarie.</p>
+<h3 id="la-crociata-temporale">La Crociata Temporale</h3>
+<p>Con l'apertura delle prime voragini l'esistenza di questa organizzazione segreta venne allo scoperto, ci fu un assalto
+alla loro base segreta dove molti di loro vennero uccisi e gli altri si diedero alla fuga, la <strong>Grande Gemma</strong> venne
+colpita e ridotta in frantumi.</p>
+<p>Molti segreti dell'organizzazione vennero svelati, e si iniziò a dar credito all'idea che il Tempo si stava risvegliando
+manifestando la propria volontà! E qui ebbe inizio la <strong>Prima crociata temporale:</strong></p>
+<p>Da una parte c'era chi voleva sistemare il tempo sfilacciato richiudendo le voragini e chi dall’altra parte voleva
+distruggere il tempo per farlo ripartire.</p>
+<h3 id="il-protocollo-ultimo">Il Protocollo Ultimo</h3>
+<p>Negli ultimi anni, prima che il mondo finisse, dei <strong>Ribelli</strong> appartenenti ad entrambe le 2 fazioni si allearono
+cercando di attivare quello che passò alla storia come <strong>Protocollo Ultimo</strong>. Vennero aiutati dalle <strong>Piccole Gemme</strong> e
+dai pochi frammenti della <strong>Grande Gemma</strong> che riuscirono a recuperare. Questi ribelli seguendo le istruzioni delle
+gemme misero in atto un complesso rituale di magia e tecnologia che passò alla storia come <strong>Protocollo Ultimo.</strong> Con
+questo rituale cercarono di rifondere assieme le <strong>Piccole Gemme</strong> del tempo e i frammenti della <strong>Grande Gemma</strong> per
+generare una nuova pietra che prese il nome di <strong>Gemma Del tempo Rinato,</strong> con la quale avrebbero sistemato gli squarci
+nel tempo. Si erano radunati a <strong>Sigil</strong> dove costruirono un potente macchinario che li avrebbe aiutati. Ma il rituale
+finì in malo modo a causa dell'Eterno N1 che li tradì. Si aprì una spaventosa voragine, ci fu una tremenda battaglia, ma
+alla fine <strong>Sigil</strong>, la <strong>Gemma del Tempo Rinata</strong> e tutti i <strong>Ribelli</strong> vennero inghiottiti per venire scaraventati nel
+Finemondo.</p>
+<h3 id="il-finemondo">Il Finemondo</h3>
+<p>Il Finemondo è il termine provvisorio con cui ci si riferisce all'ambientazione da esplorare con le WM; e consiste in
+una realtà alternativa fuori dalla <a href="https://dungeonsanddragons.fandom.com/it/wiki/Multiverso">Grande Ruota</a>.</p>
+<p>Questa realtà è costituita da tutte le varie cose, persone, città, mari e montagne inghiottite dalle Voragini,
+praticamente il Finemondo è la cloaca delle Voragini.</p>
+<p>All’inizio il mondo dovrebbe apparire come <a href="https://it.wikipedia.org/wiki/Numenera">Numenera</a>, un mondo simile a quello
+dove hanno vissuto i PG ma proiettato un miliardo di anni nel futuro, una terra costellata da enormi rovine delle
+innumerevoli civiltà che si sono susseguite in questo miliardo di anni. Poi man mano che esplorano i PG arriveranno a
+scoprire la storia e la trama che sta dietro alla Genesi del Finemondo.</p>
+<h3 id="nascita-della-forza-arcana">Nascita della Forza Arcana</h3>
+<p>La forza Arcana non è nient'altro che lo <strong>Spirito del Tempo Rinato</strong> intrappolato all’interno della <strong>Gemma Del tempo
+Rinato,</strong> la quale si ritrova dispersa al centro del Finemondo. La forza arcana è come un fuoco fatuo senziente di
+colore blu.</p>
+<p>La Gemma Del tempo Rinato riesce a leggere il passato, il presente e il futuro, e per questo motivo sceglie e richiama a
+sé gli Eletti (I PG) strappandoli alla loro realtà e spedendoli nel Finemondo. Ovviamente non ha la certezza che siano
+quelli giusti, ma sono gli uomini migliori su cui puntare per ripristinare il corretto scorrere del tempo ed evitare la
+cancellazione della realtà originale.</p>
+<h4 id="focus-forza-arcana">Focus - Forza arcana</h4>
+<ul>
+<li>Rapisce i PG da altre epoche e da altri mondi per portarli ne Finemondo.</li>
+<li>E' stata attivata dai Ribelli durante la Crociata Temporale come Protocollo Ultimo.</li>
+<li>Risiede al centro del Finemondo.</li>
+<li>Vuole salvare il mondo.</li>
+<li>La forza è buona.</li>
+<li>È una entita pensante, è lo Spirito Rinato del Tempo intrappolato nella Gemma Rinata del Tempo.</li>
+<li>Risiede al centro del fine mondo in una torre Azzurra in stile Numenera/Eberron.</li>
+<li>La forza parla agli Eterni. Ma gli Eterni sanno solo che è una Forza Arcana e non sanno esattamente cosa sia.</li>
+<li>Conosciuta anche come: Forza Arcana, Forza Motrice, Forza Ultima, Forza Ancestrale, Fuoco fatuo, Forza blu</li>
+</ul>
+<h2 id="schema">Schema</h2>
+<p><img alt="timeline.png" src="../../img/timeline.png" /></p>
+<ul>
+<li>
+<p><strong>S = Strappo</strong>
+  Momento in cui le società segrete riescono a strappare una parte del tempo dalla realtà ed imbrigliarlo in una
+  <strong>gemma</strong>.</p>
+</li>
+<li>
+<p><strong>M = Malfunzionamenti Temporali</strong>
+  Momento in cui il tessuto spaziotemporale inizia a dare i primi cenni di cedimento.</p>
+</li>
+<li>
+<p><strong>X = Singolarità Temporale</strong>
+  Nascita del Finemondo. Nella realtà originale si aprono le prime piccole <strong>Voragini</strong>, le quali iniziano a rubare
+  materia che precipita nel Finemondo.
+  Coesiste in entrambe le linee</p>
+</li>
+<li>
+<p><strong>C = Crociata Temporale</strong>
+  Momento in cui il tempo è palesemente fuori controllo e scoppia la crociata temporale.</p>
+</li>
+<li>
+<p><strong>U = Protocollo Ultimo</strong>
+  …</p>
+</li>
+<li>
+<p><strong>A = Annichilimento Realtà Originale.</strong>
+  Coesiste in entrambe le linee, Momento in cui si aprirà un'unica immensa voragine che trasporterà tutta la realtà
+  originale nel Finemondo .</p>
+</li>
+<li>
+<p><strong>I = Iniziano ad arrivare i PG nel Finemondo</strong>
+  …</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Torna su
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.copy", "content.action.edit", "navigation.tabs", "navigation.top", "toc.integrate", "search.highlight", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiato", "clipboard.copy": "Copia", "search.result.more.one": "1 altro in questa pagina", "search.result.more.other": "# altri in questa pagina", "search.result.none": "Nessun documento trovato", "search.result.one": "1 documento trovato", "search.result.other": "# documenti trovati", "search.result.placeholder": "Scrivi per iniziare a cercare", "search.result.term.missing": "Non presente", "select.version": "Seleziona la versione"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
