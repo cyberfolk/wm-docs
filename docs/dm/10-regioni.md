@@ -14,7 +14,7 @@
 |    Urbano     |    Velocità 1/2     |   15    |    13    |       13       |
 |   Westland    |   Nessun effetto    |   20    |    20    |       10       |
 
-## 3 Tipologie di Regioni
+## Le 3 Tipologie di Regioni
 
 **Regione da Popolare** è un regione che presenta solo il tipo di Bioma e il Livello Regionale, nessun altro dato.
 Appena entrati utilizzare il File Excel che si
@@ -22,9 +22,9 @@ chiama [Procedura di Popolamento](https://1drv.ms/x/s!Amdyt3gsLdBurWV7pyQwJgL2Rk
 ricopiare all'interno dell'apposita Scheda-Regione
 in [Mappa DM](onenote:Mappa%20DM.one#section-id={75E35DE6-D562-486E-B405-24DE86631A32}&end&base-path=https://d.docs.live.net/6ed02d2c78b77267/Documenti/WM7).
 Una volta finita questa procedura la regione diventa un Regione Popolata.  
-**Regione Scriptata** \= Succede qualcosa inerente alla Main Quest. Questa � gi� preimpostato Ci saranno regioni nella
+**Regione Scriptata** \= Succede qualcosa inerente alla Main Quest. Questa è già preimpostato Ci saranno regioni nella
 mappa segnate come speciali  
-**Regione popolata** \= Si tira 1d6 e vedere se il risultato � Negativo, Medio o Positivo. Poi farsi ispirare dagli
+**Regione popolata** \= Si tira 1d6 e vedere se il risultato è Negativo, Medio o Positivo. Poi farsi ispirare dagli
 Spunti presenti su quell'esagono. \[1-2\] Negativo; Pericolo territorio, Specie Endemica, Mostro Figo, Inganno. \[2-4\]
 Medio: NPG, Indizi, Aiuti, Struttura. \[5-6\] Positivo NPG, Indizi, Aiuti, Struttura.
 
@@ -42,7 +42,7 @@ Per rendere unica una regione occorrono **Forme** e **Strutture**.
 Gli insediamenti nelle Marche sono lontani e pochi tra loro. Sono ben difesi e ben nascosti; La maggior parte degli
 insediamenti sono ostili agli estranei, e quindi sarà meglio essere gentili con loro. I rari e pochi che permettono agli
 estranei di entrare sono un luogo di tregua temporanea, dove i PG possono fermarsi a riposare per una notte, ma poco di
-pi�. Se i PG trovano avventura in queste aree meno pericolose, faranno di tutto per potere rimanere la. Gli insediamenti
+più. Se i PG trovano avventura in queste aree meno pericolose, faranno di tutto per potere rimanere la. Gli insediamenti
 ostili dovrebbero essere collocati in punti di confine chiave tra le regioni. I pochi insediamenti amichevoli che
 esistono dovrebbero essere in luoghi out-of-the-way; metterli troppo vicino a primi dungeon e regioni inesplorato, e
 diventeranno un punto di sosta per ogni missione.   
@@ -56,7 +56,7 @@ abitano in una regione vicino al Fey; demoni caccia in pieno giorno quando un po
 
 ### Mostri leggendari
 
-Si pu� inserire anche un mostro leggendario, una bestia di enorme potere. Mostri leggendari dovrebbero essere in grado
+Si può inserire anche un mostro leggendario, una bestia di enorme potere. Mostri leggendari dovrebbero essere in grado
 di essere visti provenendo da lontano, dando ai giocatori di basso livello un sacco di tempo per fuggire. Quando vanno a
 combattere il mostro, assicurati che sia il loro intento diretto, non solo un incontro casuale.  
 I Mostri leggendari dovrebbero essere costruiti attorno alla lore degli abitanti delle regioni circostanti.
