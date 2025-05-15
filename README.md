@@ -3,7 +3,7 @@
 # WM-Docs
 
 📅 **Initial commit**: 04/05/25  
-🛠 **Stack**: Python, CSS, YAML, MD, MkDocs, GitHub Pages, GitHub Actions
+🛠 **Stack**: Python, CSS, YAML, MD, MkDocs, GitHub Pages, GitHub Actions  
 🌐 **Site**: https://cyberfolk.github.io/wm-docs/
 
 **WM-Docs** è un sito statico di documentazione creato con **MkDocs** e il tema **Material** for MkDocs. Il sito è
