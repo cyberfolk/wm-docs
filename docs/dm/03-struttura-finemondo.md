@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Struttura Finemondo
 
 Il Finemondo è un mondo piatto ed è costituito da 2 cerchia concentriche

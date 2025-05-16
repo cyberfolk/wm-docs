@@ -1,4 +1,4 @@
-<img src="raw/loghi/logo2.svg" align="right" height="70"/>
+<img src="docs/img/logo.svg" align="right" height="70"/>
 
 # WM-Docs
 

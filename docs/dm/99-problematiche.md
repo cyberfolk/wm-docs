@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Problematiche
 
 ## Motivazione dei PG e Coinvolgimento dei Giocatori

@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Squadra Eletta e Eterno Malvagio
 
 Tra le varie Squadre menzionate nell’archivio ci sta anche **la Squadra "Eletta"** che viene ricordata ancora dopo

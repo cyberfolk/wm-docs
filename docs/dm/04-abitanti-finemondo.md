@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Abitanti Finemondo
 
 ![abitanti-finemondo.png](../img/abitanti-finemondo.png)

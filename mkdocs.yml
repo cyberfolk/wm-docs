@@ -1,37 +1,82 @@
+# Nome visualizzato nel titolo del sito
 site_name: WM Docs
-site_url: https://cyberfolk.github.io/wm-docs
-repo_url: https://github.com/cyberfolk/wm-docs
-repo_name: wm-docs
 
+# URL pubblico del sito generato
+site_url: https://cyberfolk.github.io/wm-docs
+
+# URL del repository GitHub (mostrato con un pulsante nell'interfaccia)
+repo_url: https://github.com/cyberfolk/wm-docs
+repo_name: wm-docs  # Nome breve mostrato nel pulsante repo
+
+# CSS personalizzati da includere
 extra_css:
   - styles/extra.css
 
+# JS personalizzati (attualmente commentato)
+#extra_javascript:
+#  - js/custom.js
+
+# Tema grafico e opzioni Material for MkDocs
 theme:
-  name: material
-  language: it
-  features:
-    - content.code.copy
-    - content.action.edit
-    - navigation.tabs
-    - navigation.top
-    - toc.integrate
-    - search.highlight
-    - content.tabs.link
+  name: material        # Tema scelto
+  language: it          # Lingua dell'interfaccia
+  logo: img/logo.svg    # Percorso al logo da mostrare nel titolo del sito
+  #favicon: images/logo.ico  # Favicon del sito (commentato)
+  features: # Funzionalità abilitate del tema Material
+    - content.code.copy       # Aggiunge pulsante "copia" nei blocchi di codice
+    - content.action.edit     # Abilita pulsante "modifica" (richiede configurazione repo)
+    - navigation.tabs         # Navigazione a tab
+    - navigation.top          # Torna su in alto quando si scrolla
+    - toc.integrate           # Integra il sommario nella barra laterale
+    - search.highlight        # Evidenziazione del testo cercato
+    - content.tabs.link       # Linkabili i contenuti a tab
+  palette: # Colori per modalità chiara/scura
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
 
+# Plugin attivi
 plugins:
-  - search
-  - encryptcontent:
-      title_prefix: "[DM] "
-      global_password: null  # Nessuna password globale
+  - search                      # Ricerca interna
+  - encryptcontent: # Protezione dei contenuti con password (plugin aggiuntivo)
+      title_prefix: "[DM] "    # Prefisso del titolo per le pagine criptate
+      global_password: null    # Nessuna password globale: ogni pagina può avere la sua
 
+# Estensioni Markdown abilitate (espandono le funzionalità dei .md)
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  - admonition                 # Blocchi "attenzione", "nota", "avviso" ecc.
+  - pymdownx.details           # Blocchi a scomparsa (tipo <details>)
+  - pymdownx.superfences       # Supporto avanzato per blocchi di codice
   - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.emoji
-  - pymdownx.keys
-  - pymdownx.tasklist
+      alternate_style: true    # Stile alternativo per i contenuti a tab
+  - pymdownx.highlight         # Evidenziazione sintassi codice
+  - pymdownx.inlinehilite      # Evidenziazione inline nei testi
+  - pymdownx.emoji             # Supporto emoji (es. `:rocket:`)
+  - pymdownx.keys              # Visualizzazione combinazioni di tasti (es. `⌘ + C`)
+  - pymdownx.tasklist          # Checkbox in stile lista attività `[ ]`, `[x]`
+
+# Metadati del sito (utili per SEO)
+site_description: Documentazione del progetto WM
+site_author: Cyberfolk
+
+# Contenuti extra, es. social link e footer
+extra:
+  social:
+    - icon: fontawesome/brands/github  # Icona GitHub
+      link: https://github.com/cyberfolk # Copyright nel footer (usa entità HTML per compatibilità YAML)
+copyright: "Copyright &copy; 2025 Andrea"
+
+# Struttura della navigazione (barra laterale o tab, in base al tema)
+#nav:
+#  - Home: index.md  # Pagina iniziale del sito
+#  - Guida:          # Sezione a menu con sottopagine
+#      - Introduzione: guida/introduzione.md
+#      - Installazione: guida/installazione.md
+#      - Utilizzo: guida/utilizzo.md
+#  - Riferimenti: riferimenti.md  # Altra pagina singola
+#  - Changelog: changelog.md      # Log delle modifiche del progetto

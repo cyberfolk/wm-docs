@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Regioni Principi Base
 
 |   Ambiente    | Velocità di viaggio | CD Cibo | CD Acqua | CD Navigazione |

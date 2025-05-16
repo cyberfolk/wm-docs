@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Domande PG → Eterno
 
 - Dove siamo?
