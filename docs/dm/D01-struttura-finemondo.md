@@ -13,7 +13,7 @@ sottostante.*
 - L’esagono Blu al centro è dove risiede la Forza Arcana (NN)
 - La parte Gialla è la Cieca Eternità che collega le Macro-aree.
 
-![macroaree.png](../img/macroaree.png)
+<img src="../../img/macroaree.png" width="50%"/>
 
 ## Il Centro del Fine Mondo
 

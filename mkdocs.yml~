@@ -4,7 +4,6 @@ repo_url: https://github.com/cyberfolk/wm-docs    # URL del repository GitHub (m
 repo_name: wm-docs                                # Nome breve mostrato nel pulsante repo
 site_description: Documentazione del progetto WM  # Metadati del sito (utili per SEO)
 site_author: Cyberfolk                            # Metadati del sito (utili per SEO)
-edit_uri: edit/main/docs/
 
 extra_css:              # CSS personalizzati da includere
   - styles/extra.css
