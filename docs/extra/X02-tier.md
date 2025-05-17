@@ -1,7 +1,3 @@
----
-password: VAI VIA
----
-
 # I Titoli - Tier
 
 I Normali Tier della 5E Vengono soppiantati dai Titoli

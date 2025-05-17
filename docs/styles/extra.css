@@ -3,6 +3,10 @@ margin-top: 8px !important;
 margin-bottom: 0px !important;
 }
 
+.admonition-title{
+margin-top: 0px !important;
+}
+
 li {
 margin-bottom: 0px !important;
 }

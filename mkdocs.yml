@@ -38,8 +38,8 @@ theme:
 
 # Plugin attivi
 plugins:
-  - search                      # Ricerca interna
-  - encryptcontent: # Protezione dei contenuti con password (plugin aggiuntivo)
+  - search                     # Ricerca interna
+  - encryptcontent:            # Protezione dei contenuti con password (plugin aggiuntivo)
       title_prefix: "[DM] "    # Prefisso del titolo per le pagine criptate
       global_password: null    # Nessuna password globale: ogni pagina può avere la sua
   - redirects:
@@ -78,6 +78,7 @@ nav:
       - "Gettoni Arcani": extra/X00-gettoni-arcani.md
       - "PX PX%": extra/X01-px-px%.md
       - "Tier": extra/X02-tier.md
+      - "Scratchs": extra/scratchs.md
 
 # Contenuti extra, es. social link e footer
 extra:
