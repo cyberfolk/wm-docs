@@ -14,7 +14,7 @@ extra_css:              # CSS personalizzati da includere
 
 # Tema grafico e opzioni Material for MkDocs
 theme:
-  name: material              # Tema scelto
+  name: torillic              # Tema scelto
   language: it                # Lingua dell'interfaccia
   logo: img/logo.svg          # Percorso al logo da mostrare nel titolo del sito
 #  favicon: images/logo.ico    # Favicon del sito
@@ -70,7 +70,7 @@ nav:
       - "Trama": dm/D00-trama.md
       - "Struttura Finemondo": dm/D01-struttura-finemondo.md
       - "Abitanti Finemondo": dm/D02-abitanti-finemondo.md
-      - "Squadra Eletta e Eterno Malvagio": dm/D03-squadra-eletta-eterno-malvagio.md
+      - "Squadre E ed Eterno M": dm/D03-squadra-eletta-eterno-malvagio.md
       - "Domande PG → Eterno": dm/D04-domande-pg-eterno.md
       - "Regioni": dm/D05-regioni.md
       - "Problematiche": dm/D99-problematiche.md
