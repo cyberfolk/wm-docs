@@ -14,7 +14,7 @@ extra_css:              # CSS personalizzati da includere
 
 # Tema grafico e opzioni Material for MkDocs
 theme:
-  name: torillic              # Tema scelto
+  name: material              # Tema scelto
   language: it                # Lingua dell'interfaccia
   logo: img/logo.svg          # Percorso al logo da mostrare nel titolo del sito
 #  favicon: images/logo.ico    # Favicon del sito
