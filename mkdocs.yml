@@ -65,6 +65,7 @@ nav:
       - "Presentazione": base/B00-preview.md
       - "Dichiarazione d'intenti": base/B01-ddi.md
       - "Creazione PG": base/B02-creazione-pg.md
+      - "BG d'esempio": base/B03-bg-list.md
   - "Esplorazione": exploration/E00-esplorazione.md
   - DM:
       - "Trama": dm/D00-trama.md
