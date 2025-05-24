@@ -2,7 +2,7 @@
 
 Ogni giocatore comincia la sua partita con 2 **Gettoni Arcani**.
 
-All'interno del Tempio c'è un calderone dove si possono fare domande e ricevere risposte.
+All'interno del Tempio c'è un antico calderone dove si possono fare domande e ricevere risposte.
 
 > Ogni domanda ha un prezzo.
 
@@ -14,9 +14,17 @@ _Il pozzo ragiona sulla base di quanti gettoni possiede chi fa la domanda._
 - Se qualcuno chiede *"come posso sapere la risposta?"*  
   Il pozzo risponde che con **1 gettone** si può sempre sapere il prezzo della risposta.
 
-Il PG che si prende il ruolo di _Maestro del Sapere_ riceverà i PX% se terrà traccia di:
+Il PG che si prende il ruolo di _Maestro del Sapere_ riceverà i **PX%** se terrà traccia di:
 
 - Le domande fatte
 - Le risposte ricevute
 - Le domande aperte
+
+!!! warning "TODO"
+    Rivedere in seguito il ruolo di _Maestro del Sapere_,
+
+    - Quando precisamente deve operare in-game/off-game.
+    - Quanti PG possono ricoprire la carica e per quanto tempo.
+    - Come viene ricompensato in PX%.
+
   

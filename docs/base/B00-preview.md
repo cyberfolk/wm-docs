@@ -8,4 +8,3 @@ collegata ai vostri PG._
 
 Con un sistema di gestione dell'esplorazione, con sfide mortali ma bilanciate e una Lore tutta da scoprire passo dopo
 passo, i PG riusciranno a ritornare alla base o moriranno nel tentativo?
-x

@@ -1,4 +1,4 @@
-# Esempio di Admonition in MkDocs Material
+# Scratches
 
 !!! info
     Questo è un blocco informativo.
@@ -35,6 +35,3 @@
 
 !!! quote
     > Questa è una citazione ispirazionale.
-
-!!! warning "Attenzione!"
-    Questo warning ha un titolo personalizzato.

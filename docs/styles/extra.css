@@ -7,6 +7,10 @@ margin-bottom: 0px !important;
 margin-top: 0px !important;
 }
 
+div.admonition > p:not(.admonition-title) {
+margin-bottom: 8px !important;
+}
+
 li {
 margin-bottom: 0px !important;
 }
