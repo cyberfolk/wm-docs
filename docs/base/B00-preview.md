@@ -1,4 +1,4 @@
-# Trama
+# Echi Dal Finemondo
 
 > _Una campagna incentrata sull'Esplorazione. Un nuovo mondo interamente da scoprire. Un grande Pool di giocatori che
 condivide la stessa campagna. Ogni sessione sarà una Oneshot, e di volta in volta saranno i giocatori a dividersi in

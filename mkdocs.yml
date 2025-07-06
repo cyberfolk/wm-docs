@@ -1,4 +1,4 @@
-site_name: WM Docs                                # Nome visualizzato nel titolo del sito
+site_name: Echi Dal Finemondo                # Nome visualizzato nel titolo del sito
 site_url: https://cyberfolk.github.io/wm-docs     # URL pubblico del sito generato
 repo_url: https://github.com/cyberfolk/wm-docs    # URL del repository GitHub (mostrato con un pulsante nell'interfaccia)
 repo_name: wm-docs                                # Nome breve mostrato nel pulsante repo
@@ -6,7 +6,7 @@ site_description: Documentazione del progetto WM  # Metadati del sito (utili per
 site_author: Cyberfolk                            # Metadati del sito (utili per SEO)
 edit_uri: edit/main/docs/
 
-extra_css:              # CSS personalizzati da includere
+extra_css: # CSS personalizzati da includere
   - styles/extra.css
 
 #extra_javascript:      # JS personalizzati da includere
@@ -17,7 +17,7 @@ theme:
   name: material              # Tema scelto
   language: it                # Lingua dell'interfaccia
   logo: img/logo.svg          # Percorso al logo da mostrare nel titolo del sito
-#  favicon: images/logo.ico    # Favicon del sito
+  #  favicon: images/logo.ico    # Favicon del sito
   features: # Funzionalità abilitate del tema Material
     - content.code.copy       # Aggiunge pulsante "copia" nei blocchi di codice
     - content.action.edit     # Abilita pulsante "modifica" (richiede configurazione repo)
@@ -39,7 +39,7 @@ theme:
 # Plugin attivi
 plugins:
   - search                     # Ricerca interna
-  - encryptcontent:            # Protezione dei contenuti con password (plugin aggiuntivo)
+  - encryptcontent: # Protezione dei contenuti con password (plugin aggiuntivo)
       title_prefix: "[DM] "    # Prefisso del titolo per le pagine criptate
       global_password: null    # Nessuna password globale: ogni pagina può avere la sua
   - redirects:
@@ -63,10 +63,10 @@ markdown_extensions:
 nav:
   - Home:
       - "Presentazione": base/B00-preview.md
-      - "Dichiarazione d'intenti": base/B01-ddi.md
+      - "Maggiori dettagli": base/B01-ddi.md
       - "Creazione PG": base/B02-creazione-pg.md
       - "BG d'esempio": base/B03-bg-list.md
-  - "Esplorazione": exploration/E00-esplorazione.md
+      - "Esplorazione": base/E00-esplorazione.md
   - DM:
       - "Trama": dm/D00-trama.md
       - "Struttura Finemondo": dm/D01-struttura-finemondo.md
@@ -86,4 +86,4 @@ extra:
   social:
     - icon: fontawesome/brands/github  # Icona GitHub
       link: https://github.com/cyberfolk  # Copyright nel footer (usa entità HTML per compatibilità YAML)
-copyright: "Copyright &copy; 2025 Andrea"
+copyright: "Copyright &copy; 2025 Cyberfolk"
