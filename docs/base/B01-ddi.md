@@ -1,9 +1,11 @@
 # Maggiori Dettagli
 
-Le **West Marches** sono un particolare modo di gestire le campagne:
+## West Marches
+
+Questa campagna è strutturata secondo il modello **West Marches**, un particolare approccio in cui:
 
 * Non c’è una data fissa: ogni sessione è programmata su richiesta dei giocatori o su proposta dei Master, scrivendo nel
-  seguente canale Telegram *\[Inserire Link Mancante\]*
+  seguente [canale Telegram](https://t.me/+t4zoEcwTAxJlNjk0)
 * Non c'è un gruppo regolare: ogni partita potrà avere un party di giocatori diversi ma tutti appartenenti ad un bacino
   di circa 15-20 giocatori che condividono la stessa campagna.
 * I giocatori e i DM si organizzano autonomamente per creare di volta in volta gruppi di gioco (3-6 giocatori) sempre
