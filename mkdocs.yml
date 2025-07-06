@@ -68,7 +68,7 @@ nav:
       - "BG d'esempio": base/B03-bg-list.md
       - "Esplorazione": base/E00-esplorazione.md
   - DM:
-      - "Trama": dm/D00-trama.md
+      - "Macro Trama": dm/D00-trama.md
       - "Struttura Finemondo": dm/D01-struttura-finemondo.md
       - "Abitanti Finemondo": dm/D02-abitanti-finemondo.md
       - "Squadre E ed Eterno M": dm/D03-squadra-eletta-eterno-malvagio.md

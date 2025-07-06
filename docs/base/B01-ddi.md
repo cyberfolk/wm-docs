@@ -1,4 +1,4 @@
-# Dichiarazione d'intenti
+# Maggiori Dettagli
 
 Le **West Marches** sono un particolare modo di gestire le campagne:
 
