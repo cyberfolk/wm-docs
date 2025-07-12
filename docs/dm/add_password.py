@@ -42,10 +42,10 @@ def aggiorna_o_aggiungi_password(file_md):
         f.write(nuovo_contenuto)
 
 
-def processa_cartella(cartella):
+def processa_cartella(cartella, excluded_filenames):
     for root, _, files in os.walk(cartella):
         for nome_file in files:
-            if nome_file.endswith(".md"):
+            if nome_file.endswith(".md") and nome_file not in excluded_filenames:
                 path_completo = os.path.join(root, nome_file)
                 aggiorna_o_aggiungi_password(path_completo)
 
@@ -53,4 +53,5 @@ def processa_cartella(cartella):
 if __name__ == "__main__":
     TARGET_DIR = "."
     PASSWORD = "VAI VIA"
-    processa_cartella(TARGET_DIR)
+    EXCLUDED_FILENAMES = ["D00-preview.md"]
+    processa_cartella(TARGET_DIR, EXCLUDED_FILENAMES)
