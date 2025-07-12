@@ -35,14 +35,18 @@ opacity: 0.7;
 }
 
 
-/*h3::before {
-  content: "- ";
-  color: #000;
-  font-weight: normal;
+.md-typeset th {
+background-color: var(--md-typeset-kbd-border-color) !important;
 }
-h4::before {
-  content: "-- ";
-  color: #000;
-  font-weight: normal;
+
+.md-typeset td {
+  background-color: #fff;
 }
-*/
+
+.md-typeset tr:nth-child(even) td {
+  background-color: #f9f9f9;
+}
+
+.md-typeset tr:hover td {
+  background-color: #f0f0f0;
+}

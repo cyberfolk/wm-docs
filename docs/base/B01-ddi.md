@@ -27,7 +27,7 @@ Il **Focus delle sessioni** sarà incentrato su
 ## Ruoli e Diario di Spedizione
 
 Prima di partire per ogni missione al party verrà consegnato il
-**[Diario della Spedizione](https://drive.google.com/drive/folders/1FbsKQic-0DrDFY8vyqJI8_ShbFBdV3oh)**, dove verrà
+**[Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)**, dove verrà
 richiesto di annotare i componenti del gruppo e i loro rispettivi ruoli.
 
 |        Ruolo        | Descrizione                                                                                                                                                                                              |

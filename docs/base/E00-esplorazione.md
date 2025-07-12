@@ -53,7 +53,7 @@ fine dell'orologio indipendentemente dall'esito del TS.
 
 ## Cosa fare in un Orologio?
 
-Clicca su [Breviario delle Attività](https://drive.google.com/drive/folders/1FbsKQic-0DrDFY8vyqJI8_ShbFBdV3oh) per
+Clicca su [Breviario delle Attività](https://drive.google.com/file/d/1-9lHhP-zaFkUjd5yXw8kSTufgrzaPeNB/view?usp=sharing) per
 scaricarlo in formato pdf
 
 |        Attività        | Descrizione                                                                                                                                |                        Occorre una Prova di                         |

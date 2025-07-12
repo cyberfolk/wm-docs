@@ -61,24 +61,26 @@ markdown_extensions:
 
 # Struttura della navigazione
 nav:
-  - Home:
+  - Player:
       - "Presentazione": base/B00-preview.md
       - "Maggiori dettagli": base/B01-ddi.md
       - "Creazione PG": base/B02-creazione-pg.md
       - "BG d'esempio": base/B03-bg-list.md
       - "Esplorazione": base/E00-esplorazione.md
   - DM:
-      - "Macro Trama": dm/D00-trama.md
-      - "Struttura Finemondo": dm/D01-struttura-finemondo.md
-      - "Abitanti Finemondo": dm/D02-abitanti-finemondo.md
-      - "Squadre E ed Eterno M": dm/D03-squadra-eletta-eterno-malvagio.md
-      - "Domande PG → Eterno": dm/D04-domande-pg-eterno.md
-      - "Regioni": dm/D05-regioni.md
+      - "Presentazione": dm/D00-preview.md
+      - "Macro Trama": dm/D01-trama.md
+      - "Struttura Finemondo": dm/D02-struttura-finemondo.md
+      - "Abitanti Finemondo": dm/D03-abitanti-finemondo.md
+      - "Squadre E ed Eterno M": dm/D04-squadra-eletta-eterno-malvagio.md
+      - "Domande PG → Eterno": dm/D05-domande-pg-eterno.md
+      - "Regioni": dm/D06-regioni.md
       - "Problematiche": dm/D99-problematiche.md
   - "Extra":
-      - "Gettoni Arcani": extra/X00-gettoni-arcani.md
-      - "PX e PX%": extra/X01-px-px%.md
-      - "Tier 5E → Titoli WM": extra/X02-tier.md
+      - "Presentazione": extra/X000-preview.md
+      - "Gettoni Arcani": extra/X001-gettoni-arcani.md
+      - "PX e PX%": extra/X002-px-px%.md
+      - "Tier 5E → Titoli WM": extra/X003-tier.md
       - "Scratchs": extra/scratchs.md
 
 # Contenuti extra, es. social link e footer

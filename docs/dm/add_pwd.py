@@ -5,7 +5,7 @@ import re
 
 
 def ha_frontmatter(file_md):
-    with open(file_md, 'r', encoding='utf-8') as f:
+    with open(fide_md, 'r', encoding='utf-8') as f:
         prima_riga = f.readline()
         return prima_riga.strip() == "---"
 

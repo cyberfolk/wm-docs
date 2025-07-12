@@ -1,32 +1,81 @@
 # Creazione PG
 
-> _Qui nessuno arriva per caso. Siete stati strappati dal vostro mondo e catapultati in un luogo che non conoscete,
-senza sapere il perché. Non ci sono visioni divine, né profezie da seguire. Solo voi, i vostri ricordi, e una ragione
-personale per sopravvivere e andare avanti._
+> **Qui nessuno arriva per caso.**
+> Siete stati strappati dal vostro mondo come vetri scheggiati da una cornice ormai rotta.
+> Le vostre vite erano già crepate, forse finite.
+> E ora vi trovate altrove, un luogo che non conoscete, e che non vi ha chiesto il permesso.
 
-## Definisci la tua Identità
+> **Nessun dio vi parla. Nessuna profezia vi chiama.**
+> Solo silenzio, e una domanda che scava dentro: *“Perché io?”*
 
-Usa [ 10 ~ 50 parole](https://contacaratteri.it/) per descrivere chi fosse il tuo PG prima di arrivare qui.   
-Scegli un’**Identità** forte, qualcuno abituato a sporcarsi le mani, ad agire e a prendere decisioni. Qualcuno
-capace di affrontare l’ignoto.
+> **Nessuno vi darà la risposta**.
+> Ma siete qui!  E se vorrete, questo potrebbe essere l’inizio di qualcosa.
+> Una seconda possibilità.
+> Per chi ha il coraggio di andare avanti. Cercandone il senso, prima che il mondo lo scelga per voi.
 
-## Definisci la tua Motivazione
+---
 
-Usa [ 10 ~ 50 parole](https://contacaratteri.it/) per definire la tua **Motivazione**. Ogni personaggio deve avere una
-motivazione chiara, personale e autosufficiente. Questa motivazione deve spingere il PG a uscire dalla base e affrontare
-missioni sempre nuove, anche senza sapere cosa troverà là fuori. Non c'è una Lore da conoscere se non quella che
-scriverai tu stesso.
+## Linee Guida
 
-Una motivazione ben costruita deve soddisfare i seguenti punti:
+Per partecipare alla campagna è necessaria:
 
-1. **Spinta ad agire** &rarr; Deve spingere il PG a lasciare la base e intraprendere missioni sempre nuove, anche senza
-   sapere cosa troverà là fuori.
-2. **Ragione di vivere** &rarr; Il PG è precipitato in un mondo sconosciuto, senza sapere come o perché. La motivazione
-   deve aiutare il PG a non abbattersi e avere ancora una ragione di vivere nonostante sia stato strappato dal suo
-   contesto originario.
-3. **Nuova vita** &rarr; È utile se il PG, già prima dell’arrivo nel nuovo mondo, fosse già animato dal forte desiderio
-   di recidere i ponti col passato e costruire una nuova vita.
-4. **Il passato è passato** &rarr; La motivazione non dovrebbe basarsi sull’esistenza di elementi del passato nel nuovo
-   mondo (come persone, luoghi, oggetti o segreti)[^1].
+- Una **scheda di D&D 5e (edizione 2014)** di Livello 3.
+- Un **Background** personale
 
-[^1]: In casi eccezionali e con valide motivazioni, può venire permesso previo accordo con il DM.
+In questa pagina troverai Le **istruzioni passo passo** per costruire il tuo background.  
+Qui troverai [BG d'esempio](../B03-bg-list) utili come riferimento o ispirazione.  
+Qui troverai [Schede Pregenerate](https://drive.google.com/drive/folders/1hGQRurYRsyZ9SHw_0rF6kLPHyMla-BQr?usp=sharing)
+utili come riferimento o ispirazione.
+
+In caso di dubbi o se desideri un confronto, **scrivimi liberamente su [Telegram](https://t.me/RemigioPG)**.  
+Una volta completato il BG, **inviamelo sempre lì**: potrò aiutarti a rifinirlo o adattarlo meglio alla campagna.
+
+## Creazione BG
+
+Il background si costruisce su due elementi fondamentali:
+
+- **L'Identità** → Chi eri prima di arrivare nel Finemondo
+- **La Motivazione** → Cosa ti spinge ad andare avanti
+
+Un background ben definito aiuta a calarsi meglio nel mondo di gioco. Ma **non devono essere un ostacolo**: puoi
+iniziare a giocare anche con un background vago, incompleto o appena abbozzato. Finché un elemento del BG **non è
+entrato in gioco**, puoi **modificarlo liberamente**. L’esperienza al tavolo potrà ispirarti a svilupparlo meglio in
+seguito.
+
+### 1. 🔍 Identità
+
+> Usa [10–50 parole](https://contacaratteri.it/) per descrivere chi fosse il tuo PG prima di arrivare qui.
+
+Scegli un’**identità** forte: una persona con esperienza, abituata ad affrontare difficoltà, prendere decisioni o
+cavarsela in contesti complessi. Non deve essere per forza un eroe, ma basta qualcuno con carattere. Può essere un ex
+soldato, un ladro, una fuggitiva, un mercenario, un medico da campo, ecc.
+
+### 2. 🔥 Motivazione
+
+> Usa [10–50 parole](https://contacaratteri.it/) per descrivere **ciò che ti spinge ad agire**.
+
+Una motivazione ben definita soddisfi questi punti:
+
+- **Spinta ad agire:** &rarr; Deve motivare il PG a uscire dalla base e affrontare pericoli sempre nuovi.
+- **Ragione di vivere:** &rarr; Deve aiutarlo a non arrendersi, e trovare forza nei momenti difficili.
+- **Il passato è passato:** &rarr; Evita riferimenti a persone, oggetti o segreti del passato che “potrebbero”
+  trovarsi nel Finemondo.
+- **Nuova vita:** &rarr; Meglio se il PG voleva già cambiare vita prima di arrivare qui.
+
+Se sei bloccato, chiediti:
+
+- *“Cosa mi spinge ad andare avanti, anche se non mi è rimasto più nulla?”*
+- *"Cosa arde nel profondo del mio cuore? Vendetta? Giustizia? Odio?"*
+- *“Che parte di me voglio salvare… o distruggere?”*
+- *“Cosa voglio adesso?”*
+
+## E ora tocca te
+
+Quando ti senti pronto:
+
+1. Scrivi **Identità** e **Motivazione**
+2. Se serve, controlla i [BG d'esempio](../B03-bg-list).
+3. Mandami tutto su Telegram.
+4. Se vuoi, allega anche la scheda.
+
+Ricorda: non serve la perfezione, serve **una scintilla**. Il resto lo farà il gioco.

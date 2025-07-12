@@ -1,6 +1,6 @@
 # Echi Dal Finemondo
 
-🎲 **Sistema**: Dungeons & Dragons 5e  
+🎲 **Sistema**: Dungeons & Dragons 5e (2014)  
 🏜️ **Genere**: Dark Fantasy, Weird Fantasy, Magitek
 
 > _Una campagna incentrata sull'**Esplorazione**. Un nuovo mondo interamente da scoprire. Un grande Pool di giocatori
@@ -13,9 +13,17 @@
 Con un sistema di gestione dell'esplorazione, con sfide mortali ma bilanciate e una Lore tutta da scoprire passo dopo
 passo, i PG riusciranno a ritornare alla base o moriranno nel tentativo?
 
+## Guida alla Lettura
+
+- 📖 [Maggiori Dettagli sulla campagna](../B01-ddi) – *Da leggere prima di iniziare*
+- 🧙‍♂️ [Creazione Personaggio e Background](../B02-creazione-pg) – *Per costruire il tuo eroe*
+- 🧭 [Sistema d'Esplorazione](../B03-esplorazione) – *Per approfondire le meccaniche sul campo*
+
 ![001.png](..%2Fimg%2F001.png)
 
-✨ **Reference**:
+> ✨ **Reference**:
 [Numenera](https://it.wikipedia.org/wiki/Numenera),
 [La Torre Nera](https://it.wikipedia.org/wiki/La_torre_nera),
 [Planescape](https://it.wikipedia.org/wiki/Planescape)
+
+
