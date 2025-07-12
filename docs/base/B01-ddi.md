@@ -27,15 +27,15 @@ Il **Focus delle sessioni** sarà incentrato su
 ## Ruoli e Diario di Spedizione
 
 Prima di partire per ogni missione al party verrà consegnato il
-**[Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)**, dove verrà
-richiesto di annotare i componenti del gruppo e i loro rispettivi ruoli.
+**[Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)**, dove
+verrà richiesto di annotare i componenti del gruppo e i loro rispettivi ruoli.
 
-|        Ruolo        | Descrizione                                                                                                                                                                                              |
-|:-------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Capo Spedizione** | Chi si occupa di tenere unito il gruppo e prendere decisioni quando il gruppo è in disaccordo. Durante gli _"Orologi"_ aiuta e coordina gli altri giocatori a scegliere e svolgere le loro _"Attività"_. |
-|    **Cronista**     | Chi si occupa di redigere il Diario della Spedizione annotando ciò che di interessante viene scoperto.                                                                                                   |
-|    **Mappiere**     | Chi si occupa di redigere la mappa delle WM.                                                                                                                                                             |
-|    **Tesoriere**    | Chi si occupa di gestire la cassa comune.                                                                                                                                                                |
+|        Ruolo        | Descrizione                                                                                                                                                                                                                                                                   |
+|:-------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Capo Spedizione** | Chi si occupa di tenere unito il gruppo e prendendo decisioni quando il gruppo è in disaccordo. <br/>Durante gli [Orologi](../E00-esplorazione#Orologi) coordina gli altri giocatori a scegliere e svolgere le loro [Attività](../E00-esplorazione#Cosa fare in un Orologio). |
+|    **Cronista**     | Chi si occupa di redigere il Diario della Spedizione annotando ciò che di interessante viene scoperto.                                                                                                                                                                        |
+|    **Mappiere**     | Chi si occupa di redigere la mappa del mondo.                                                                                                                                                                                                                                 |
+|    **Tesoriere**    | Chi si occupa di gestire la cassa comune.                                                                                                                                                                                                                                     |
 
 ## Gestione tempo in game
 
