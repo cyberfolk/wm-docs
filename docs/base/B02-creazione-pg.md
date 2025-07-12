@@ -75,7 +75,7 @@ Quando ti senti pronto:
 
 1. Scrivi **Identità** e **Motivazione**
 2. Se serve, controlla i [BG d'esempio](../B03-bg-list).
-3. Mandami tutto su Telegram.
+3. Mandami tutto su [Telegram](https://t.me/RemigioPG).
 4. Se vuoi, allega anche la scheda.
 
 Ricorda: non serve la perfezione, serve **una scintilla**. Il resto lo farà il gioco.

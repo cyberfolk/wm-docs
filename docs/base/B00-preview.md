@@ -16,8 +16,8 @@ passo, i PG riusciranno a ritornare alla base o moriranno nel tentativo?
 ## Guida alla Lettura
 
 - 📖 [Maggiori Dettagli sulla campagna](../B01-ddi) – *Da leggere prima di iniziare*
-- 🧙‍♂️ [Creazione Personaggio e Background](../B02-creazione-pg) – *Per costruire il tuo eroe*
-- 🧭 [Sistema d'Esplorazione](../B03-esplorazione) – *Per approfondire le meccaniche sul campo*
+- 🧙‍♂️ [Creazione Personaggio e Background](../B02-creazione-pg) – *Per costruire il tuo PG*
+- 🧭 [Sistema d'Esplorazione](../B03-esplorazione) – *Per approfondire le nuove meccaniche*
 
 ![001.png](..%2Fimg%2F001.png)
 
