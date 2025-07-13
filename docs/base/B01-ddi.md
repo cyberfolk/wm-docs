@@ -4,74 +4,61 @@
 
 Questa campagna è strutturata secondo il modello **West Marches**, un particolare approccio in cui:
 
-* Non c’è una data fissa: ogni sessione è programmata su richiesta dei giocatori o su proposta dei Master, scrivendo nel
-  seguente [canale Telegram](https://t.me/+t4zoEcwTAxJlNjk0)
-* Non c'è un gruppo regolare: ogni partita potrà avere un party di giocatori diversi ma tutti appartenenti ad un bacino
-  di circa 15-20 giocatori che condividono la stessa campagna.
-* I giocatori e i DM si organizzano autonomamente per creare di volta in volta gruppi di gioco (3-6 giocatori) sempre
-  diversi o sempre uguali in base alle preferenze e disponibilità di ognuno.
-* Ogni sessione è Oneshot che inizia e finisce alla base.
+- **Nessuna data fissa**: ogni sessione è programmata su richiesta dei giocatori o su proposta dei Master, scrivendo
+  nel [canale Telegram](https://t.me/+t4zoEcwTAxJlNjk0)
+- **Nessun gruppo fisso**: ogni partita potrà avere un party di giocatori diversi ma tutti appartenenti ad un bacino di
+  circa 15-20 giocatori che condividono la stessa campagna
+- **Organizzazione autonoma**: I giocatori e i DM si organizzano autonomamente per creare di volta in volta gruppi di
+  gioco (3-6 giocatori) sempre diversi o sempre uguali in base alle preferenze e disponibilità di ognuno.
+- **Sessioni autoconclusive**: ogni sessione è Oneshot che inizia e finisce alla base.
 
-Inoltre, per questa specifica campagna va sottolineato che:
+Inoltre, per questa specifica campagna:
 
-* Il mondo è basato su un sistema a **mappe esagonali**, interamente da esplorare.
-* Le **sfide** del mondo saranno **pericolose**, ma ben calibrate, basterà solo usare la testa per sopravvivere.
-* Si livella con un sistema di punti esperienza che tiene conto di molti fattori, tra cui l'esplorazione.
+- Il mondo è costruito su **mappe esagonali**, interamente da esplorare.
+- Le sfide saranno **pericolose ma bilanciate**. Usare la testa farà la differenza.
+- Si livella con un sistema di punti esperienza che tiene conto di molti fattori, tra cui l'esplorazione.
 
-Il **Focus delle sessioni** sarà incentrato su
+### Focus delle Sessioni
 
-* Esplorazione delle terre selvagge e di luoghi misteriosi
-* Sfide pericolose
-* Recupero di antichi artefatti e conoscenze perdute
+- Esplorazione delle terre selvagge e di luoghi misteriosi.
+- Recupero di artefatti antichi e conoscenze perdute.
+- Sfide pericolose.
 
-## Ruoli e Diario di Spedizione
+## Diario della Spedizione
 
-Prima di partire per ogni missione al party verrà consegnato il
-**[Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)**, dove
-verrà richiesto di annotare i componenti del gruppo e i loro rispettivi ruoli.
+Ogni missione è una spedizione vera e propria. E come in ogni spedizione che si rispetti, serve **una squadra ben
+organizzata**. Prima di partire, il gruppo compilerà
+il [Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)
+indicando ruoli e partecipanti.
 
-|        Ruolo        | Descrizione                                                                                                                                                                                                                                                                   |
-|:-------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Capo Spedizione** | Chi si occupa di tenere unito il gruppo e prendendo decisioni quando il gruppo è in disaccordo. <br/>Durante gli [Orologi](../E00-esplorazione#Orologi) coordina gli altri giocatori a scegliere e svolgere le loro [Attività](../E00-esplorazione#Cosa fare in un Orologio). |
-|    **Cronista**     | Chi si occupa di redigere il Diario della Spedizione annotando ciò che di interessante viene scoperto.                                                                                                                                                                        |
-|    **Mappiere**     | Chi si occupa di redigere la mappa del mondo.                                                                                                                                                                                                                                 |
-|    **Tesoriere**    | Chi si occupa di gestire la cassa comune.                                                                                                                                                                                                                                     |
+|        Ruolo        | Descrizione                                                                                                                                                                               |
+|:-------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Capo Spedizione** | Tiene unito il gruppo e prende decisioni in caso di disaccordo. Durante gli [Orologi](../E00-esplorazione#Orologi), coordina le [Attività](../E00-esplorazione#Cosa-fare-in-un-Orologio). |
+|    **Cronista**     | Annota nel Diario tutto ciò che viene scoperto: nomi, eventi, misteri, reliquie...                                                                                                        |
+|    **Mappiere**     | Tiene traccia della mappa, segnando percorsi e territori esplorati.                                                                                                                       |
+|    **Tesoriere**    | Gestisce la cassa comune del gruppo.                                                                                                                                                      |
 
-## Gestione tempo in game
+## Uscire in missione
 
-Solamente durante le sessioni i PG possono uscire dalla base.
-Nei Downtime una barriera magica vincola tutti i PG alla base.
-Ogni missione inizia alla base e ogni missione finisce alla base.
+I PG possono lasciare la Base **solo durante le sessioni di gioco**.  
+Tra una sessione e l’altra, una **barriera magica** li vincola all’interno: nessuno può uscire, nessuno può entrare.
 
-### Uscire in missione
-
-Chi esce in missione per andare nelle WM deve attraversare la barriera magica che protegge la base.
-Al gruppo verrà dato un **talismano** che li protegge e che permetterà loro di tornare alla base prima che la barriera
-si richiuda.
-NB: Il tempo per tornare alla base è un espediente narrativo pari al tempo per tornare a casa in una Oneshot.
-
-### Time-out: ritorno alla Base
+Ogni missione **inizia e termina alla Base**. Per oltrepassare la barriera, il gruppo riceverà un **talismano magico**
+che consentirà loro di uscire e tornare indietro prima che sia troppo tardi.
 
 Se a fine sessione i PG vengono catturati, o rimangono intrappolati o per un qualsiasi motivo non riescono a tornare
-alla base verranno inghiottiti dalle tenebre. Invece, se riescono a tornare alla base potranno fare il Downtime e
-dormire nei propri letti.
+alla base verranno inghiottiti dalle tenebre e moriranno.
 
 ## Sfide Pericolose
 
-Le terre Selvagge sono un luogo insito di pericoli. Ogni Regione ha un determinato livello di difficoltà; e sarà compito
-dei giocatori saper riconoscere quando le sfide presenti in una regione sono alla loro portata, oppure capire se non c’è
-margine di speranza e riconoscere che la cosa più saggia sarebbe andare ad esplorare in una direzione più adatta al loro
-livello attuale.
+Ogni Regione ha un determinato livello di difficoltà; e sarà compito dei giocatori saper riconoscere quando le sfide
+presenti in una regione sono alla loro portata, oppure capire se non c’è margine di speranza e riconoscere che la cosa
+più saggia sarebbe andare ad esplorare in una direzione più adatta al loro livello attuale.
 
-### Morte dei PG
+### Morte dei Personaggi
 
-I PG possono morire in:
+Se un PG muore, nella sessione successiva si risveglierà nelle **Cripte della Base**, senza sapere come.  
+Perderà **tutti i PX** guadagnati nella spedizione, manterrà **l’equipaggiamento** e perderà parte della sua integrità.
 
-- Combattimento
-- Pericoli Vari
-- (forse) Se non ritornano alla Base.
-
-Se un PG muore, nella sessione successiva, si ritroverà nelle cripte della base e verrà risvegliato dal custode, senza
-capire come questo sia successo. Avrà perso tutti i PX accumulati nella missione precedente, ma il suo equipaggiamento
-verrà mantenuto.
-
+> _Il Finemondo non è un luogo da conquistare, ma da comprendere.  
+Chi sopravvive, torna con nuove domande. Chi muore… forse lascia un indizio._
