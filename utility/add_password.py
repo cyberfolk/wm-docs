@@ -51,7 +51,7 @@ def processa_cartella(cartella, excluded_filenames):
 
 
 if __name__ == "__main__":
-    TARGET_DIR = "."
+    TARGET_DIR = "../docs/dm"
     PASSWORD = "VAI VIA"
     EXCLUDED_FILENAMES = ["D00-preview.md"]
     processa_cartella(TARGET_DIR, EXCLUDED_FILENAMES)
