@@ -195,19 +195,37 @@ Un **Riposo Lungo** richiede **2 Orologi**, suddivisi in 6 ore di sonno e 2 ore 
 
 ⚠️ **Gli Elfi** in trance contano doppio e possono coprire **due turni da soli**.
 
-## Tiri Conoscenza
+## Tiri di Conoscenza
 
-Effettuare un **Tiro di Conoscenza** per ottenere informazioni su una creatura è un [**Azione**].  
-Si tira su Arcana, Natura, Religione o Storia in base al nemico, e si confronta il risultato con la seguente tabella.
+Un **Tiro di Conoscenza** richiede un'[**Azione**] e una prova di **Arcana, Natura, Religione o Storia**, in base alla
+creatura.  
+Il **risultato** indica **quante info** ottieni (vedi Tabella 1), che puoi poi **spendere** scegliendo dalla Tabella 2.
 
-|  Risultato  |        Esito        |
-|:-----------:|:-------------------:|
-|  **0 - 7**  |      Zero Info      |
-| **8 - 12**  | 1 Minore 1 Maggiore |
-| **13 - 17** | 2 Minore 2 Maggiore |
-| **18 - 22** | 3 Minore 3 Maggiore |
-|   **23+**   | 4 Minore 4 Maggiore |
+[Scarica infografica](../img/info-min-max3.png)
 
-![stat-block-info.png](../img/info-min-max2.png)
+*Tabella 1 – Tiro di Conoscenza*
 
-![stat-block-info.png](../img/info-min-max3.png)
+| Risultato |   Info disponibili    |
+|:---------:|:---------------------:|
+|  **0–7**  |        Nessuna        |
+| **8–12**  | 1 Minore + 1 Maggiore |
+| **13–17** | 2 Minori + 2 Maggiori |
+| **18–22** | 3 Minori + 3 Maggiori |
+|  **23+**  | 4 Minori + 4 Maggiori |
+
+*Tabella 2 – Info Creatura*
+
+|      Minori      |   |                 Maggiori                 |
+|:----------------:|:-:|:----------------------------------------:|
+|       Nome       |   |              Grado di Sfida              |
+|  Tipo creatura   |   |        Punti Ferita **[2 info]**         |
+|   Allineamento   |   |             Classe Armatura              |
+| Bonus competenza |   |            Capacità Speciale             |
+|    Iniziativa    |   |            Azione o Reazione             |
+|     Velocità     |   | Immunità, Resistenza<br/>o Vulnerabilità |
+|      Un TS       | → |          Tutti i Tiri Salvezza           |
+|  Un Linguaggio   | → |            Tutti i Linguaggi             |
+|   Una Abilità    | → |             Tutte le Abilità             |
+|     Un Senso     | → |              Tutti i Sensi               |
+
+
