@@ -174,7 +174,7 @@ il regolamento e non sono una parte sulla quale il gioco vuole focalizzarsi, cos
 Farsi descrivere dai PG come vogliono allestire il campo, precisare se intendono fare qualcosa di particolare
 come sistemi di sicurezza o occultamenti specifici, valutare se occorre richiedere una prova.
 
-### Razioni di Cibo e d'Acqua
+## Razioni di Cibo e d'Acqua
 
 [Rivedere]
 
@@ -185,7 +185,7 @@ orologio.
 Se il gruppo non ha unità di cibo da poter consumare ogni membro della squadra dovrà superare un **TS COS CD 15** o
 subire un livello di Indebolimento. Lo stesso TS dovrà essere eseguito anche in assenza di unità d'acqua.
 
-### Riposo Lungo e Turni di Guardia
+## Riposo Lungo e Turni di Guardia
 
 Un **Riposo Lungo** richiede **2 Orologi**, suddivisi in 6 ore di sonno e 2 ore di attività leggera.
 
@@ -195,21 +195,19 @@ Un **Riposo Lungo** richiede **2 Orologi**, suddivisi in 6 ore di sonno e 2 ore 
 
 ⚠️ **Gli Elfi** in trance contano doppio e possono coprire **due turni da soli**.
 
-### Tiri Conoscenza
+## Tiri Conoscenza
 
-[Rivedere]
+Effettuare un **Tiro di Conoscenza** per ottenere informazioni su una creatura è un [**Azione**].  
+Si tira su Arcana, Natura, Religione o Storia in base al nemico, e si confronta il risultato con la seguente tabella.
 
-Effettuare un tiro di conoscenza per scoprire di più su un nemico è un \[Azione\]. Si tira su Arcana, Natura,
-Religione o Storia in base al nemico, e si confronta il risultato con la seguente tabella. è sufficiente un tiro uguale
-o superiore a 8 per scoprire automaticamente il nome della creatura. La taglia è evidente di per sè, non occorre un tiro
-di conoscenza per scoprirla.
+|  Risultato  |        Esito        |
+|:-----------:|:-------------------:|
+|  **0 - 7**  |      Zero Info      |
+| **8 - 12**  | 1 Minore 1 Maggiore |
+| **13 - 17** | 2 Minore 2 Maggiore |
+| **18 - 22** | 3 Minore 3 Maggiore |
+|   **23+**   | 4 Minore 4 Maggiore |
 
-|    Risultato    |        Esito        |
-|:---------------:|:-------------------:|
-|    **X < 7**    |      Zero Info      |
-| **8 < X < 12**  | 1 Minore 1 Maggiore |
-| **13 < X < 17** | 2 Minore 2 Maggiore |
-| **18 < X < 22** | 3 Minore 3 Maggiore |
-|   **X < 23**    | 4 Minore 4 Maggiore |
+![stat-block-info.png](../img/info-min-max2.png)
 
-![stat-block-info.png](../img/stat-block-info.png)
+![stat-block-info.png](../img/info-min-max3.png)

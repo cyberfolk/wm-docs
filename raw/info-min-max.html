@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Info Creatura</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+          font-family: 'Noto Sans', sans-serif;
+          background-color: #fdf6e3;
+          color: #2e1a12;
+          padding: 2rem;
+          line-height: 1.6;
+        }
+
+        table {
+          width: 100%;
+          border-collapse: collapse;
+          background-color: #fffdf6;
+          border: 2px solid #7b0000;
+          box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        caption {
+          caption-side: top;
+          text-align: left;
+          font-size: 1.5rem;
+          color: #7b0000;
+          margin-bottom: 1rem;
+          border-bottom: 2px solid #7b0000;
+          padding-bottom: 0.5rem;
+          font-weight: bold;
+        }
+
+        th, td {
+          padding: 0.6rem 1rem;
+          vertical-align: top;
+          font-size: 1rem;
+        }
+
+        th {
+          color: #7b0000;
+          font-size: 1.1rem;
+          text-align: left;
+          border-bottom: 1px solid #7b0000;
+        }
+
+        tr:nth-child(even) {
+          background-color: #f9f5e9;
+        }
+
+        .arrow {
+          text-align: center;
+          color: #7b0000;
+          font-weight: bold;
+          font-size: 1.2rem;
+        }
+
+        .badge {
+          background: #7b0000;
+          color: #fff;
+          font-size: 0.8em;
+          padding: 2px 6px;
+          border-radius: 6px;
+          font-weight: bold;
+          margin-left: 0.3em;
+        }
+
+        @media print {
+          body {
+            background: none;
+            color: black;
+          }
+
+          table {
+            box-shadow: none;
+            border-color: black;
+          }
+
+          .arrow {
+            color: black;
+          }
+
+          .badge {
+            color: white;
+            background: black;
+          }
+        }
+
+        #table-knowledge-roll th,
+        #table-knowledge-roll td{
+            text-align: center;
+        }
+
+        #table-knowledge-info th:nth-child(1),
+        #table-knowledge-info td:nth-child(1) {
+            text-align: right;
+        }
+
+    </style>
+</head>
+<body>
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+    <div>
+        <table id="table-knowledge-roll" style="max-width: 350px; flex-shrink: 0;">
+            <caption>Tiro di Conoscenza</caption>
+            <thead>
+            <tr>
+                <th>Risultato</th>
+                <th>Informazioni</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td><strong>0 - 7</strong></td>
+                <td>Nessuna</td>
+            </tr>
+            <tr>
+                <td><strong>8 - 12</strong></td>
+                <td>1 Minore 1 Maggiore</td>
+            </tr>
+            <tr>
+                <td><strong>13 - 17</strong></td>
+                <td>2 Minore 2 Maggiore</td>
+            </tr>
+            <tr>
+                <td><strong>18 - 22</strong></td>
+                <td>3 Minore 3 Maggiore</td>
+            </tr>
+            <tr>
+                <td><strong>23+</strong></td>
+                <td>4 Minore 4 Maggiore</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <table id="table-knowledge-info">
+            <caption>Info Creatura</caption>
+            <thead>
+            <tr>
+                <th>Info Minori</th>
+                <th></th>
+                <th>Info Maggiori</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Nome</td>
+                <td></td>
+                <td>Grado di Sfida</td>
+            </tr>
+            <tr>
+                <td>Tipo di creatura</td>
+                <td></td>
+                <td>Punti Ferita <span class="badge">2 Info</span></td>
+            </tr>
+            <tr>
+                <td>Allineamento</td>
+                <td></td>
+                <td>Classe Armatura</td>
+            </tr>
+            <tr>
+                <td>Bonus competenza</td>
+                <td></td>
+                <td>Una Capacità Speciale</td>
+            </tr>
+            <tr>
+                <td>Iniziativa</td>
+                <td></td>
+                <td>Una Reazione</td>
+            </tr>
+            <tr>
+                <td>Velocità</td>
+                <td></td>
+                <td>Una Immunità, Resistenza o Vulnerabilità</td>
+            </tr>
+            <tr>
+                <td>Un Tiro Salvezza</td>
+                <td class="arrow">→</td>
+                <td>Tutti i Tiri Salvezza</td>
+            </tr>
+            <tr>
+                <td>Una Statistica</td>
+                <td class="arrow">→</td>
+                <td>Tutte le Statistiche</td>
+            </tr>
+            <tr>
+                <td>Un Linguaggio</td>
+                <td class="arrow">→</td>
+                <td>Tutti i Linguaggi</td>
+            </tr>
+            <tr>
+                <td>Una Abilità</td>
+                <td class="arrow">→</td>
+                <td>Tutte le Abilità</td>
+            </tr>
+            <tr>
+                <td>Un Senso</td>
+                <td class="arrow">→</td>
+                <td>Tutti i Sensi</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
