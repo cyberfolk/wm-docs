@@ -31,12 +31,12 @@ organizzata**. Prima di partire, il gruppo compilerà
 il [Diario della Spedizione](https://drive.google.com/file/d/1GcmzTfg-_f2cZFPPqKcbCVEIE76l7IzL/view?usp=sharing)
 indicando ruoli e partecipanti.
 
-|        Ruolo        | Descrizione                                                                                                                                                                               |
-|:-------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Capo Spedizione** | Tiene unito il gruppo e prende decisioni in caso di disaccordo. Durante gli [Orologi](../E00-esplorazione#Orologi), coordina le [Attività](../E00-esplorazione#Cosa-fare-in-un-Orologio). |
-|    **Cronista**     | Annota nel Diario tutto ciò che viene scoperto: nomi, eventi, misteri, reliquie...                                                                                                        |
-|    **Mappiere**     | Tiene traccia della mappa, segnando percorsi e territori esplorati.                                                                                                                       |
-|    **Tesoriere**    | Gestisce la cassa comune del gruppo.                                                                                                                                                      |
+|        Ruolo        | Descrizione                                                                                                                                                                  |
+|:-------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Capo Spedizione** | Tiene unito il gruppo e prende decisioni in caso di disaccordo. Durante gli [Orologi](../E00-esplorazione#Orologi), coordina le [Attività](../E00-esplorazione#le-attivita). |
+|    **Cronista**     | Annota nel Diario tutto ciò che viene scoperto: nomi, eventi, misteri, reliquie...                                                                                           |
+|    **Mappiere**     | Tiene traccia della mappa, segnando percorsi e territori esplorati.                                                                                                          |
+|    **Tesoriere**    | Gestisce la cassa comune del gruppo.                                                                                                                                         |
 
 ## Uscire in missione
 
