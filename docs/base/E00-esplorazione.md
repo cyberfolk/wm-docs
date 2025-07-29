@@ -110,12 +110,10 @@ Se nessuno vigila, si confronta direttamente **Furtività** dei nemici con **Per
 Chi **Foraggia** sceglie se cercare **cibo** o **acqua**, poi effettua una **Prova di Sopravvivenza** (CD variabile per
 Bioma).
 
-- **Successo** → Le razioni del tipo cercato **aumentano di 1**
-- **Fallimento di 5 o meno** → Le razioni del tipo cercato **restano invariate**
-- **Fallimento di più di 5** → Le razioni del tipo cercato **diminuiscono di 1**
+- **Successo** → Tirare 1d6 per la risorsa cercata.
+- **Fallimento** → Non si trova nessuna risorsa.
 
-Un altro PG può aiutare solo se ha **competenza in Sopravvivenza**.  
-Se **nessuno foraggia** per un certo tipo di risorsa, le razioni di quel tipo **diminuiscono di 1**.
+Un altro PG può aiutare solo se ha **competenza in Sopravvivenza**.
 
 ### Motivare
 
@@ -174,30 +172,53 @@ il regolamento e non sono una parte sulla quale il gioco vuole focalizzarsi, cos
 Farsi descrivere dai PG come vogliono allestire il campo, precisare se intendono fare qualcosa di particolare
 come sistemi di sicurezza o occultamenti specifici, valutare se occorre richiedere una prova.
 
-## Razioni di Cibo e d'Acqua
+## Riposo e Risorse
 
-[Rivedere]
+Questa sezione raccoglie le regole relative al **consumo di cibo e acqua**, ai **riposi** e ai **turni di guardia**.
 
-Al termine di ogni Orologio di veglia il gruppo deve mangiare una **Razione di Cibo** e bere **una Razione d'Acqua**.   
-Con **Razione di Cibo** e **Razione d'Acqua** si intendono unità capaci di sfamare e dissetare l'intero gruppo per un
-orologio.
+### Razioni di Cibo e d'Acqua
 
-Se il gruppo non ha unità di cibo da poter consumare ogni membro della squadra dovrà superare un **TS COS CD 15** o
-subire un livello di Indebolimento. Lo stesso TS dovrà essere eseguito anche in assenza di unità d'acqua.
+Le razioni di cibo e d'acqua servono per effettuare i Riposi Brevi e Lunghi come spiegato in seguito.
 
-## Riposo Lungo e Turni di Guardia
+Alla fine di ogni giornata, ogni PG deve aver consumato:
+
+- **1 Razione d’acqua** → altrimenti subisce **1 livello di Indebolimento**.
+- **1 Razione di cibo** → altrimenti deve superare un **TS Costituzione CD 15** o subisce **1 livello di Indebolimento**
+
+### Riposo Breve
+
+Segue le [regole ufficiali 2024](https://5e.tools/variantrules.html#short%20rest_xphb), con le seguenti modifiche:
+
+- Richiede **1 Razione di cibo** e **1 Razione d'acqua**.
+- Si può effettuare una sola volta per Orologio.
+- Se si ha solo una delle due risorse, i DV si tirano con **svantaggio**.
+- Se manca sia il cibo che l'acqua, per ogni DV speso si recuperano solo i PF pari al MOD di Costituzione
+  *(senza tirare il dado)*.
+
+### Riposo Lungo
+
+Segue le [regole ufficiali 2024](https://5e.tools/variantrules.html#long%20rest_xphb), con le seguenti modifiche:
+
+- Richiede **2 razioni di cibo** e **2 d'acqua** per il recupero completo.
+- Ogni razione mancante riduce la quantità di PF recuperati.
+
+> _“Ogni razione è un quarto di vita.”_
+
+| Razioni Consumate | PF Recuperati    |
+|:-----------------:|:-----------------|
+|         4         | PF completi      |
+|         3         | ¾ dei PF massimi |
+|         2         | ½ dei PF massimi |
+|         1         | ¼ dei PF massimi |
+|         0         | 1 PF per livello |
+
+### Turni di Guardia
 
 Un **Riposo Lungo** richiede **2 Orologi**, suddivisi in 6 ore di sonno e 2 ore di attività leggera.
 
 - Con **4 PG**, ognuno può vigilare per 2 ore, coprendo le 8 ore con **4 turni singoli**.
 - Poiché il riposo copre **2 Orologi**, si devono tirare **2 Eventi Casuali**  
   Tirare **1d2** per determinare in quale turno avviene e **chi è sveglio**.
-
-## Turni di Guardia
-
-Con **4 PG**, ognuno può vigilare per 2 ore, coprendo le 8 ore di Riposo Lungo con **4 turni singoli**.  
-Poiché il Riposo Lungo copre **2 Orologi**, occorre tirare **2 Eventi Casuali** determinare casualmente in quale turni
-avvengono.
 
 ⚠️ **Gli Elfi** grazie alla loro *trance* contano doppio e possono coprire **due turni da soli**.
 

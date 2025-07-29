@@ -17,7 +17,7 @@ theme:
   name: material              # Tema scelto
   language: it                # Lingua dell'interfaccia
   logo: img/logo.svg          # Percorso al logo da mostrare nel titolo del sito
-  #  favicon: images/logo.ico    # Favicon del sito
+  favicon: img/favicon.ico    # Favicon del sito
   features: # Funzionalità abilitate del tema Material
     - content.code.copy       # Aggiunge pulsante "copia" nei blocchi di codice
     - content.action.edit     # Abilita pulsante "modifica" (richiede configurazione repo)
