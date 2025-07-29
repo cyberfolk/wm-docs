@@ -193,7 +193,13 @@ Un **Riposo Lungo** richiede **2 Orologi**, suddivisi in 6 ore di sonno e 2 ore 
 - Poiché il riposo copre **2 Orologi**, si devono tirare **2 Eventi Casuali**  
   Tirare **1d2** per determinare in quale turno avviene e **chi è sveglio**.
 
-⚠️ **Gli Elfi** in trance contano doppio e possono coprire **due turni da soli**.
+## Turni di Guardia
+
+Con **4 PG**, ognuno può vigilare per 2 ore, coprendo le 8 ore di Riposo Lungo con **4 turni singoli**.  
+Poiché il Riposo Lungo copre **2 Orologi**, occorre tirare **2 Eventi Casuali** determinare casualmente in quale turni
+avvengono.
+
+⚠️ **Gli Elfi** grazie alla loro *trance* contano doppio e possono coprire **due turni da soli**.
 
 ## Tiri di Conoscenza
 

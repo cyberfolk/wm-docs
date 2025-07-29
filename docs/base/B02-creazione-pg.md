@@ -23,7 +23,7 @@ Per partecipare alla campagna è necessaria:
 - Un **Background** personale
 
 In questa pagina troverai Le **istruzioni passo passo** per costruire il tuo background.  
-Qui troverai [BG d'esempio](../B03-bg-list) utili come riferimento o ispirazione.  
+Qui troverai [BG d'esempio](B03-bg-list.md) utili come riferimento o ispirazione.  
 Qui troverai [Schede Pregenerate](https://drive.google.com/drive/folders/1hGQRurYRsyZ9SHw_0rF6kLPHyMla-BQr?usp=sharing)
 utili come riferimento o ispirazione.
 
@@ -74,7 +74,7 @@ Se sei bloccato, chiediti:
 Quando ti senti pronto:
 
 1. Scrivi **Identità** e **Motivazione**
-2. Se serve, controlla i [BG d'esempio](../B03-bg-list).
+2. Se serve, controlla i [BG d'esempio](B03-bg-list.md).
 3. Mandami tutto su [Telegram](https://t.me/RemigioPG).
 4. Se vuoi, allega anche la scheda.
 

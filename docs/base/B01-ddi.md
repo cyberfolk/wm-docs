@@ -33,7 +33,7 @@ indicando ruoli e partecipanti.
 
 |        Ruolo        | Descrizione                                                                                                                                                                  |
 |:-------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Capo Spedizione** | Tiene unito il gruppo e prende decisioni in caso di disaccordo. Durante gli [Orologi](../E00-esplorazione#Orologi), coordina le [Attività](../E00-esplorazione#le-attivita). |
+| **Capo Spedizione** | Tiene unito il gruppo e prende decisioni in caso di disaccordo. Durante gli [Orologi](E00-esplorazione.md#orologi), coordina le [Attività](E00-esplorazione.md#le-attivita). |
 |    **Cronista**     | Annota nel Diario tutto ciò che viene scoperto: nomi, eventi, misteri, reliquie...                                                                                           |
 |    **Mappiere**     | Tiene traccia della mappa, segnando percorsi e territori esplorati.                                                                                                          |
 |    **Tesoriere**    | Gestisce la cassa comune del gruppo.                                                                                                                                         |
