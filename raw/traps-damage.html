@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Info Creatura</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+        table.trappole {
+          width: 100%;
+          border-collapse: collapse;
+          background-color: #fffdf6;
+          border: 2px solid #7b0000;
+          box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+          font-family: 'Noto Sans', sans-serif;
+          color: #2e1a12;
+          margin-top: 2rem;
+        }
+
+        table.trappole caption {
+          caption-side: top;
+          text-align: left;
+          font-size: 1.5rem;
+          color: #7b0000;
+          margin-bottom: 1rem;
+          border-bottom: 2px solid #7b0000;
+          padding-bottom: 0.5rem;
+          font-weight: bold;
+        }
+
+        table.trappole th,
+        table.trappole td {
+          padding: 0.6rem 1rem;
+          vertical-align: middle;
+          font-size: 1rem;
+          border: 1px solid #c0a97e;
+          text-align: center;
+        }
+
+        table.trappole th {
+          color: #ffffff;
+          font-size: 1.1rem;
+          text-align: center;
+          border-bottom: 1px solid #7b0000;
+          background-color: #7b0000;
+        }
+
+        table.trappole tbody tr:nth-child(even) {
+          background-color: #f9f5e9;
+        }
+
+        table.trappole tbody tr:nth-child(odd) {
+          background-color: #fffdf6;
+        }
+
+        table.trappole td:first-child {
+          text-align: left;
+          font-weight: bold;
+          color: #7b0000;
+        }
+        .level-party  th {
+            background-color: #ffeebd !important;
+            color: #7b0000 !important;
+        }
+
+        caption {
+          caption-side: top;
+          text-align: left;
+          font-size: 1.5rem;
+          color: #7b0000;
+          margin-bottom: 1rem;
+          border-bottom: 2px solid #7b0000;
+          padding-bottom: 0.5rem;
+          font-weight: bold;
+        }
+        body {
+          font-family: 'Noto Sans', sans-serif;
+          background-color: #fdf6e3;
+          color: #2e1a12;
+          padding: 2rem;
+          line-height: 1.6;
+        }
+000000
+    </style>
+</head>
+<body>
+
+<table class="trappole">
+    <caption>Danni Trappole</caption>
+    <thead>
+    <tr>
+        <th rowspan="2">Pericolosità</th>
+        <th rowspan="2">CD</th>
+        <th rowspan="2">TXC</th>
+        <th colspan="4">Livello Party</th>
+    </tr>
+    <tr class="level-party">
+        <th>1–4</th>
+        <th>5–10</th>
+        <th>11–16</th>
+        <th>17–20</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Contrattempo</td>
+        <td>10 – 11</td>
+        <td>+3, +5</td>
+        <td>1d10</td>
+        <td>2d10</td>
+        <td>4d10</td>
+        <td>10d10</td>
+    </tr>
+    <tr>
+        <td>Pericolosa</td>
+        <td>12 – 15</td>
+        <td>+6, +8</td>
+        <td>2d10</td>
+        <td>4d10</td>
+        <td>10d10</td>
+        <td>18d10</td>
+    </tr>
+    <tr>
+        <td>Mortale</td>
+        <td>16 – 20</td>
+        <td>+9, +12</td>
+        <td>4d10</td>
+        <td>10d10</td>
+        <td>18d10</td>
+        <td>24d10</td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

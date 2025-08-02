@@ -52,3 +52,23 @@ non solo il livello di potere, ma anche il prestigio narrativo del personaggio.
 - Ad esempio, **non è permesso** creare un Titolo WM che vada solo dal 12 al 13, perché romperebbe la struttura dei
   manuali ufficiali di D&D 5E.
 
+## Riferimenti 5E
+
+### Tabella Rank
+
+| Rank | Livello | Titolo      | Scala  |
+|------|---------|-------------|--------|
+| 1    | 1–4     | Eroi        | Locali |
+| 2    | 5–10    | Eroi del    | Reame  |
+| 3    | 11–16   | Signori del | Reame  |
+| 4    | 17–20   | Signori del | Mondo  |
+
+### Tabella Bonus Competenza
+
+| Bonus Competenza | Livello | Titolo       | Scala  |
+|------------------|---------|--------------|--------|
+| 2                | 1–4     | Eroi         | Locali |
+| 3                | 5–8     | Eroi del     | Reame  |
+| 4                | 9–12    | Eroi/Signori | Reame  |
+| 5                | 13–16   | Signori      | Reame  |
+| 6                | 17–20   | Signori del  | Mondo  |

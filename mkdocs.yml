@@ -75,12 +75,14 @@ nav:
       - "Squadre E ed Eterno M": dm/D04-squadra-eletta-eterno-malvagio.md
       - "Domande PG → Eterno": dm/D05-domande-pg-eterno.md
       - "Regioni": dm/D06-regioni.md
+      - "Domande Aperte": dm/D07-domande-aperte.md
       - "Problematiche": dm/D99-problematiche.md
   - "Extra":
       - "Presentazione": extra/X000-preview.md
       - "Gettoni Arcani": extra/X001-gettoni-arcani.md
       - "PX e PX%": extra/X002-px-px%.md
       - "Tier 5E → Titoli WM": extra/X003-tier.md
+      - "Trappole": extra/X005-traps.md
       - "Scratchs": extra/scratchs.md
 
 # Contenuti extra, es. social link e footer
