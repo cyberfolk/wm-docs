@@ -76,17 +76,18 @@ Ecco qui l'elenco delle attività che un PG può svolgere durante un orologio:
 Clicca su [Breviario delle Attività](https://drive.google.com/file/d/1-9lHhP-zaFkUjd5yXw8kSTufgrzaPeNB/view?usp=sharing)
 per scaricarlo in formato pdf
 
-|                   Attività                    | Descrizione                                                                                                                          |     Prova di      |
-|:---------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------|:-----------------:|
-|          **[Viaggiare](#viaggiare)**          | Il gruppo lascia la Regione in cui si trova per entrare in un'altra Regione adiacente.                                               |      Nessuna      |
-|           **[Vigilare](#vigilare)**           | Chi **Vigila** cerca di avvistare pericoli e nemici prima che siano loro ad avvistare il party.<br/> *Si può fare mentre si viaggia* |  **Percezione**   |
-|         **[Foraggiare](#foraggiare)**         | Chi **Foraggia** cerca cibo o acqua o altre risorse. *Si può fare mentre si viaggia*                                                 | **Sopravvivenza** |
-|           **[Motivare](#motivare)**           | Chi **Motiva** da conforto e/o sprona i propri compagni. *Si può fare mentre si viaggia*                                             | **Intrattenere**  |
-|         **[Orientarsi](#orientarsi)**         | Chi **si Orienta** evita che il party si perda. *Si può fare mentre si viaggia*                                                      | **Sopravvivenza** |
-|           **[Cacciare](#cacciare)**           | Chi **Caccia** cerca la tana o crea una trappola per una specifica creatura che popolano la regione.                                 | **Sopravvivenza** |
-|        **[Perlustrare](#perlustrare)**        | Chi **Perlustra** controlla che tipi di creature abitano una data regione.                                                           |    **Natura**     |
-| **[Estrarre Materiali](#estrarre-materiali)** | Chi **Estrae Material**e dal cadavere di un mostro o dal terreno.                                                                    |    **Natura**     |
-|    **[Allestire Campo](#allestire-campo)**    | Chi **Allestisce il campo** prendendo le dovute precauzioni                                                                          | **Sopravvivenza** |
+|                   Attività                    | Descrizione                                                                                                                          |       Prova di        |
+|:---------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------|:---------------------:|
+|          **[Viaggiare](#viaggiare)**          | Il gruppo lascia la Regione in cui si trova per entrare in un'altra Regione adiacente.                                               |        Nessuna        |
+|           **[Vigilare](#vigilare)**           | Chi **Vigila** cerca di avvistare pericoli e nemici prima che siano loro ad avvistare il party.<br/> *Si può fare mentre si viaggia* |    **Percezione**     |
+|         **[Foraggiare](#foraggiare)**         | Chi **Foraggia** cerca cibo o acqua o altre risorse. *Si può fare mentre si viaggia*                                                 |   **Sopravvivenza**   |
+|           **[Motivare](#motivare)**           | Chi **Motiva** da conforto e/o sprona i propri compagni. *Si può fare mentre si viaggia*                                             |   **Intrattenere**    |
+|         **[Orientarsi](#orientarsi)**         | Chi **si Orienta** evita che il party si perda. *Si può fare mentre si viaggia*                                                      |   **Sopravvivenza**   |
+|           **[Cacciare](#cacciare)**           | Chi **Caccia** cerca la tana o crea una trappola per una specifica creatura che popolano la regione.                                 |   **Sopravvivenza**   |
+|        **[Perlustrare](#perlustrare)**        | Chi **Perlustra** controlla che tipi di creature abitano una data regione.                                                           |      **Natura**       |
+| **[Estrarre Materiali](#estrarre-materiali)** | Chi **Estrae Material**e dal cadavere di un mostro o dal terreno.                                                                    |      **Natura**       |
+|    **[Allestire Campo](#allestire-campo)**    | Chi **Allestisce il campo** prendendo le dovute precauzioni                                                                          |   **Sopravvivenza**   |
+|           **[Cucinare](#cucinare)**           | Chi **Cucina** prepara Razioni Elaborate.                                                                                            | **Utensili da Cuoco** |
 
 📌 **Nota Bene**:
 
@@ -171,6 +172,20 @@ il regolamento e non sono una parte sulla quale il gioco vuole focalizzarsi, cos
 
 Farsi descrivere dai PG come vogliono allestire il campo, precisare se intendono fare qualcosa di particolare
 come sistemi di sicurezza o occultamenti specifici, valutare se occorre richiedere una prova.
+
+### Cucinare
+
+Chi **Cucina** può preparare **Razioni Elaborate** per il gruppo.  
+Una **Razione Elaborata** vale sia come **cibo** che come **acqua** per un solo PG, offrendo un pasto più completo e
+gratificante.
+
+Occorre effettuare una prova con gli **Utensili da Cuoco** *(Caratteristica a scelta)*.
+
+- **Successo:** per ogni **+3** oltre il 10 il PG può convertire **1 Razione di Cibo** e **1 Razione d’Acqua** in **2
+  Razioni Elaborate**.
+- **Fallimento:** se il risultato è **inferiore a 13**, entrambe le razioni usate vengono **sprecate**.
+
+Se il PG **non ha competenza** negli Utensili da Cuoco, effettua la prova con **svantaggio**.
 
 ## Riposo e Risorse
 
