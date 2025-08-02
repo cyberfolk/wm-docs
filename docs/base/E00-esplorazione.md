@@ -118,7 +118,16 @@ Un altro PG può aiutare solo se ha **competenza in Sopravvivenza**.
 
 ### Motivare
 
-[Rivedere]
+Chi **Motiva** solleva il morale del gruppo con parole, canti o gesti d’incoraggiamento, durante un Orologio.
+
+Effettua una **prova di Intrattenere** (CD 13):
+
+- Con **13** si motiva **1 membro** del party, e per ogni **+3** oltre la CD si motiva **1 membro aggiuntivo**.
+- I PG **motivati** ricevono un **Dado di Ispirazione Bardica** (default: d6), da usare entro l’Orologio successivo.
+- La **Taglia del dado** segue la progressione
+  dell’[Ispirazione Bardica](https://5e.tools/classes.html#bard_xphb,state:feature=s0-0).
+
+📌 I **Bardi** motivano **1 membro extra**: per loro, la CD Base è **10**.
 
 ### Orientarsi
 
@@ -129,7 +138,7 @@ Un PG può orientarsi in due modi:
 - **In Modo Direzionale** → Se non c’è un riferimento visibile, serve una **Prova di Sopravvivenza** (CD variabile per
   Bioma).
 
-💢 **Fallimento** (in entrambi i casi il DM tira **1d12** segretamente):
+**Fallimento** (in entrambi i casi il DM tira **1d12** segretamente):
 
 - di 5 o meno → Il party va in **fuoristrada leggero**.
 - di più di 5 → Il party va in **fuoristrada pesante**.
@@ -155,7 +164,7 @@ presenza, effettuando una prova di **Prova di Natura** (CD variabile per Regione
 - **Successo** → si scopre quali creature popolano la regione (ma **non** le si incontra direttamente).
 
 Un altro PG può aiutare solo se ha competenza in **Sopravvivenza**.   
-⚠️ Non si può **Perlustrare durante il viaggio**.
+⚠️ Non si può **Perlustrare** durante il viaggio.
 
 ### Estrarre Materiali
 
@@ -163,15 +172,21 @@ Un altro PG può aiutare solo se ha competenza in **Sopravvivenza**.
 
 Un PG che **Estrae materiale** può recuperarli dal cadavere dei mostri appena sconfitti oppure dall'**ambiente**
 circostante.  
-*\[Esistono regole specifiche per effettuare queste azioni ma ho deciso di non riportarle qui per evitare di appesantire
-il regolamento e non sono una parte sulla quale il gioco vuole focalizzarsi, cosa confermata dai playtest\]*
+*[Esistono regole specifiche ma non le ho riportate perchè non sono una parte sulla quale il gioco vuole focalizzarsi]*
 
-### Allestire Campo
+⚠️ Non si può **Estrarre Materiali** durante il viaggio.
 
-[Rivedere]
+### Allestire il Campo
 
-Farsi descrivere dai PG come vogliono allestire il campo, precisare se intendono fare qualcosa di particolare
-come sistemi di sicurezza o occultamenti specifici, valutare se occorre richiedere una prova.
+Chi **Allestisce il Campo** organizza la zona di riposo per aumentare sicurezza e protezione durante l’Orologio.  
+Effettua una **prova di Sopravvivenza** (CD variabile, a discrezione del DM), scegliendo **uno dei seguenti effetti**:
+
+- **Trappola** → piazza una trappola d’area; chi la attiva deve superare un **TS (CD variabile)** o subire gli effetti.
+- **Occultamento** → il campo è ben nascosto: il gruppo ha **vantaggio sul prossimo tiro di Evento Casuale**.
+- **Sorveglianza** → le vedette avranno **vantaggio alle prove di Percezione** durante i Turni di Guardia.
+
+Un altro PG può aiutare solo se ha competenza in **Sopravvivenza**.   
+⚠️ Non si può **Allestire il Campo** durante il viaggio.
 
 ### Cucinare
 
@@ -179,13 +194,14 @@ Chi **Cucina** può preparare **Razioni Elaborate** per il gruppo.
 Una **Razione Elaborata** vale sia come **cibo** che come **acqua** per un solo PG, offrendo un pasto più completo e
 gratificante.
 
-Occorre effettuare una prova con gli **Utensili da Cuoco** *(Caratteristica a scelta)*.
+Effettuare una prova con gli **Utensili da Cuoco** *(Caratteristica a scelta)*.
 
 - **Successo:** per ogni **+3** oltre il 10 il PG può convertire **1 Razione di Cibo** e **1 Razione d’Acqua** in **2
   Razioni Elaborate**.
 - **Fallimento:** se il risultato è **inferiore a 13**, entrambe le razioni usate vengono **sprecate**.
 
-Se il PG **non ha competenza** negli Utensili da Cuoco, effettua la prova con **svantaggio**.
+Un altro PG può aiutare solo se ha competenza in **Utensili da Cuoco**.   
+⚠️ Non si può **Cucinare** durante il viaggio.
 
 ## Riposo e Risorse
 
