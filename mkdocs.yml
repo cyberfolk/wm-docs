@@ -1,17 +1,19 @@
-site_name: Echi Dal Finemondo                # Nome visualizzato nel titolo del sito
+# ======================================================================================================================
+site_name: Echi Dal Finemondo                     # Nome visualizzato nel titolo del sito
 site_url: https://cyberfolk.github.io/wm-docs     # URL pubblico del sito generato
-repo_url: https://github.com/cyberfolk/wm-docs    # URL del repository GitHub (mostrato con un pulsante nell'interfaccia)
+repo_url: https://github.com/cyberfolk/wm-docs    # URL del repository GitHub (mostrato con pulsante nell'interfaccia)
 repo_name: wm-docs                                # Nome breve mostrato nel pulsante repo
 site_description: Documentazione del progetto WM  # Metadati del sito (utili per SEO)
 site_author: Cyberfolk                            # Metadati del sito (utili per SEO)
 edit_uri: edit/main/docs/
-
-extra_css: # CSS personalizzati da includere
+# ======================================================================================================================
+use_directory_urls: true    # Toglie .html dagli url di produzione (url produzione = url locale)
+# ======================================================================================================================
+extra_css:              # CSS personalizzati da includere
   - styles/extra.css
-
-#extra_javascript:      # JS personalizzati da includere
-#  - js/custom.js
-
+extra_javascript:       # JS  personalizzati da includere
+  - js/custom.js
+# ======================================================================================================================
 # Tema grafico e opzioni Material for MkDocs
 theme:
   name: material              # Tema scelto
@@ -35,7 +37,7 @@ theme:
       scheme: slate
       primary: blue
       accent: blue
-
+# ======================================================================================================================
 # Plugin attivi
 plugins:
   - search                     # Ricerca interna
@@ -45,7 +47,7 @@ plugins:
   - redirects:
       redirect_maps:
         index.md: base/B00-preview.md
-
+# ======================================================================================================================
 # Estensioni Markdown abilitate (espandono le funzionalità dei .md)
 markdown_extensions:
   - admonition                 # Blocchi "attenzione", "nota", "avviso" ecc.
@@ -58,7 +60,7 @@ markdown_extensions:
   - pymdownx.emoji             # Supporto emoji (es. `:rocket:`)
   - pymdownx.keys              # Visualizzazione combinazioni di tasti (es. `⌘ + C`)
   - pymdownx.tasklist          # Checkbox in stile lista attività `[ ]`, `[x]`
-
+# ======================================================================================================================
 # Struttura della navigazione
 nav:
   - Player:
@@ -84,10 +86,12 @@ nav:
       - "Tier 5E → Titoli WM": extra/X003-tier.md
       - "Trappole": extra/X005-traps.md
       - "Scratchs": extra/scratchs.md
-
+# ======================================================================================================================
 # Contenuti extra, es. social link e footer
 extra:
   social:
     - icon: fontawesome/brands/github  # Icona GitHub
       link: https://github.com/cyberfolk  # Copyright nel footer (usa entità HTML per compatibilità YAML)
+# ======================================================================================================================
 copyright: "Copyright &copy; 2025 Cyberfolk"
+# ======================================================================================================================
