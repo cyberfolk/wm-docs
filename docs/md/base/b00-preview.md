@@ -15,11 +15,11 @@ passo, i PG riusciranno a ritornare alla base o moriranno nel tentativo?
 
 ## Guida alla Lettura
 
-- 📖 [Maggiori Dettagli sulla campagna](B01-ddi.md) – *Da leggere prima di iniziare*
-- 🧙‍♂️ [Creazione Personaggio e Background](B02-creazione-pg.md) – *Per costruire il tuo PG*
-- 🧭 [Sistema d'Esplorazione](E00-esplorazione.md) – *Per approfondire le nuove meccaniche*
+- 📖 [Maggiori Dettagli sulla campagna](b01-ddi.md) – *Da leggere prima di iniziare*
+- 🧙‍♂️ [Creazione Personaggio e Background](b02-creazione-pg.md) – *Per costruire il tuo PG*
+- 🧭 [Sistema d'Esplorazione](b04-esplorazione.md) – *Per approfondire le nuove meccaniche*
 
-![001.png](..%2Fimg%2F001.png)
+![Image](../../img/001.png)
 
 > ✨ **Reference**:
 [Numenera](https://it.wikipedia.org/wiki/Numenera),

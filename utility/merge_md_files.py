@@ -65,6 +65,7 @@ def processa_unione_md(source_dir, output_dir, output_name=None):
 if __name__ == "__main__":
     OUTPUT_FOLDER = "../exports"
 
-    processa_unione_md("../docs/base", OUTPUT_FOLDER)
-    processa_unione_md("../docs/dm", OUTPUT_FOLDER)
-    processa_unione_md("../docs/extra", OUTPUT_FOLDER)
+    processa_unione_md("../docs/md/base", OUTPUT_FOLDER)
+    processa_unione_md("../docs/md/dm", OUTPUT_FOLDER)
+    processa_unione_md("../docs/md/extra", OUTPUT_FOLDER)
+    processa_unione_md("../docs/md/lore-tool", OUTPUT_FOLDER)

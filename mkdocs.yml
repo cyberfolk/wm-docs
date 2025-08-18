@@ -64,28 +64,41 @@ markdown_extensions:
 # Struttura della navigazione
 nav:
   - Player:
-      - "Presentazione": base/B00-preview.md
-      - "Maggiori dettagli": base/B01-ddi.md
-      - "Creazione PG": base/B02-creazione-pg.md
-      - "BG d'esempio": base/B03-bg-list.md
-      - "Esplorazione": base/E00-esplorazione.md
+      - "Presentazione": md/base/b00-preview.md
+      - "Maggiori dettagli": md/base/b01-ddi.md
+      - "Creazione PG": md/base/b02-creazione-pg.md
+      - "BG d'esempio": md/base/b03-bg-list.md
+      - "Esplorazione": md/base/b04-esplorazione.md
   - DM:
-      - "Presentazione": dm/D00-preview.md
-      - "Macro Trama": dm/D01-trama.md
-      - "Struttura Finemondo": dm/D02-struttura-finemondo.md
-      - "Abitanti Finemondo": dm/D03-abitanti-finemondo.md
-      - "Squadre E ed Eterno M": dm/D04-squadra-eletta-eterno-malvagio.md
-      - "Domande PG → Eterno": dm/D05-domande-pg-eterno.md
-      - "Regioni": dm/D06-regioni.md
-      - "Domande Aperte": dm/D07-domande-aperte.md
-      - "Problematiche": dm/D99-problematiche.md
+      - "Presentazione": md/dm/d00-preview.md
+      - "Macro Trama": md/dm/d01-trama.md
+      - "Struttura Finemondo": md/dm/d02-finemondo-struttura.md
+      - "Abitanti Finemondo": md/dm/d03-finemondo-abitanti.md
+      - "Squadre E ed Eterno M": md/dm/d04-squadra-eletta-eterno-malvagio.md
+      - "Domande PG → Eterno": md/dm/d05-domande-pg-eterno.md
+      - "Regioni": md/dm/d06-regioni.md
+      - "Domande Aperte": md/dm/d07-domande-aperte.md
+      - "Layer di Lore": md/dm/d08-layer-lore.md
+      - "Problematiche": md/dm/d99-problematiche.md
   - "Extra":
-      - "Presentazione": extra/X000-preview.md
-      - "Gettoni Arcani": extra/X001-gettoni-arcani.md
-      - "PX e PX%": extra/X002-px-px%.md
-      - "Tier 5E → Titoli WM": extra/X003-tier.md
-      - "Trappole": extra/X005-traps.md
-      - "Scratchs": extra/scratchs.md
+      - "Presentazione": md/extra/x00-preview.md
+      - "Gettoni Arcani": md/extra/x01-gettoni-arcani.md
+      - "PX e PX%": md/extra/x02-px-px%.md
+      - "Tier 5E → Titoli WM": md/extra/x03-tier.md
+      - "Trappole": md/extra/x05-traps.md
+      - "Scratchs": md/extra/x99-scratches.md
+  - "Narratologia":
+      - "Presentazione": md/lore-tool/l00-preview.md
+      - "Fazioni": md/lore-tool/l01-fazioni.md
+      - "Insediamenti": md/lore-tool/l02-insediamenti.md
+      - "NPCs": md/lore-tool/l03-npcs.md.md
+      - "HEXs | Regioni": md/lore-tool/l10n-hex.md
+      - "POI | Punto d’Interesse": md/lore-tool/l04-poi.md
+      - "ML | Mostro Leggendario": md/lore-tool/l07-monster.md
+      - "Quest": md/lore-tool/l06-quest.md
+      - "Artefatto": md/lore-tool/l08-artifact.md
+      - "Lore Item": md/lore-tool/l05-lore-item.md
+      - "RN | Relazione Narrativa": md/lore-tool/l09-relation.md
 # ======================================================================================================================
 # Contenuti extra, es. social link e footer
 extra:

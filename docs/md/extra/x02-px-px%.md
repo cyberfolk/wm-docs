@@ -22,9 +22,9 @@ Questo metodo permette di dare PX **proporzionati al livello** dei personaggi, m
 
 A fine sessione ogni PG può ricevere PX% extra per:
 
-- **Ruoli assunti** (es. Cartografo, Scriba…) → fino al 15% della barra
-- **Aiuti al DM o agli altri** → % variabile
-- **Roleplay** → % variabile
+- **Ruoli assunti** (es. Cartografo, Scriba…) → da 0 a 5% 
+- **Aiuti al DM o agli altri** → da 0 a 5%
+- **Roleplay** → da 0 a 5%
 
 
 ## La Soglia di PX
