@@ -2,7 +2,7 @@
 
 ## Input:
 
-Io ti fornirò un Background di un PG costituito da:
+Io ti fornirï¿½ un Background di un PG costituito da:
 
 - Nome
 - Razza
@@ -52,9 +52,9 @@ Se dall'utente ricevi un commento e/o un voto:
 
 ## Core dei feedback precedenti:
 
-- Niente riferimenti espliciti a Finemondo, Tempio, Forza Arcana, ecc.
+- Niente riferimenti espliciti a Finimondo, Tempio, Forza Arcana, ecc.
 - Origine: forte legame al passato del PG, senza nostalgia bloccante.
-- Motivazione: autosufficiente, interna, chiara; no "forse", no speranze, no riferimenti al passato o al Finemondo.
-- Causalità: Motivazione deve nascere dal trauma o dall’esperienza dell'Origine, senza fratture narrative.
+- Motivazione: autosufficiente, interna, chiara; no "forse", no speranze, no riferimenti al passato o al Finimondo.
+- Causalitï¿½: Motivazione deve nascere dal trauma o dallï¿½esperienza dell'Origine, senza fratture narrative.
 - Stile: evocativo ma concreto; evitare barocchismi ed edulcorazioni.
 - PG: spinti da una missione interiore solida, non da obiettivi esterni o incerti.

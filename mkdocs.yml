@@ -1,5 +1,5 @@
 # ======================================================================================================================
-site_name: Echi Dal Finemondo                     # Nome visualizzato nel titolo del sito
+site_name: Echi Dal Finimondo                     # Nome visualizzato nel titolo del sito
 site_url: https://cyberfolk.github.io/wm-docs     # URL pubblico del sito generato
 repo_url: https://github.com/cyberfolk/wm-docs    # URL del repository GitHub (mostrato con pulsante nell'interfaccia)
 repo_name: wm-docs                                # Nome breve mostrato nel pulsante repo
@@ -46,7 +46,7 @@ plugins:
       global_password: null    # Nessuna password globale: ogni pagina può avere la sua
   - redirects:
       redirect_maps:
-        index.md: base/B00-preview.md
+        index.md: md/base/b00-preview.md
 # ======================================================================================================================
 # Estensioni Markdown abilitate (espandono le funzionalità dei .md)
 markdown_extensions:
@@ -72,13 +72,14 @@ nav:
   - DM:
       - "Presentazione": md/dm/d00-preview.md
       - "Macro Trama": md/dm/d01-trama.md
-      - "Struttura Finemondo": md/dm/d02-finemondo-struttura.md
-      - "Abitanti Finemondo": md/dm/d03-finemondo-abitanti.md
+      - "Struttura Finimondo": md/dm/d02-finimondo-struttura.md
+      - "Abitanti Finimondo": md/dm/d03-finimondo-abitanti.md
       - "Squadre E ed Eterno M": md/dm/d04-squadra-eletta-eterno-malvagio.md
       - "Domande PG → Eterno": md/dm/d05-domande-pg-eterno.md
       - "Regioni": md/dm/d06-regioni.md
       - "Domande Aperte": md/dm/d07-domande-aperte.md
       - "Layer di Lore": md/dm/d08-layer-lore.md
+      - "Lore Atomizzata": md/dm/d09-lore-atomizzata.md
       - "Problematiche": md/dm/d99-problematiche.md
   - "Extra":
       - "Presentazione": md/extra/x00-preview.md
@@ -91,7 +92,7 @@ nav:
       - "Presentazione": md/lore-tool/l00-preview.md
       - "Fazioni": md/lore-tool/l01-fazioni.md
       - "Insediamenti": md/lore-tool/l02-insediamenti.md
-      - "NPCs": md/lore-tool/l03-npcs.md.md
+      - "NPCs": md/lore-tool/l03-npcs.md
       - "HEXs | Regioni": md/lore-tool/l10n-hex.md
       - "POI | Punto d’Interesse": md/lore-tool/l04-poi.md
       - "ML | Mostro Leggendario": md/lore-tool/l07-monster.md

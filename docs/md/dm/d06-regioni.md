@@ -11,7 +11,7 @@ password: VAI VIA
 - **Regione da Popolare** è un regione che presenta solo il tipo di Bioma e il Livello Regionale, nessun altro dato. Appena entrati utilizzare la **Procedura di Popolamento** per generare gli Spunti da ricopiare all'interno dell'apposita Scheda-Regione. Una volta finita questa procedura la regione diventa un Regione Popolata.
 - **Regione popolata** = Si tira 1d6 e vedere se il risultato è Negativo, Medio o Positivo. Poi farsi ispirare dagli Spunti presenti su quell'esagono.
     - \[1-2\] Negativo; Pericolo territorio, Specie Endemica, Mostro Figo, Inganno.
-    - \[2-4\] Medio: Combina 1 spunto “positivo” e 1 “negativo” per creare un dilemma.
+    - \[3-4\] Medio: Combina 1 spunto “positivo” e 1 “negativo” per creare un dilemma.
     - \[5-6\] Positivo NPG, Indizi, Aiuti, Struttura.
 
 ### Punti d'Interesse (POI)

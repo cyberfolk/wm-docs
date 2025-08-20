@@ -2,9 +2,9 @@
 password: VAI VIA
 ---
 
-# Struttura Finemondo
+# Struttura Finimondo
 
-Il Finemondo è un mondo piatto ed è costituito da 2 cerchia concentriche di Macroaree come *rappresentato nella figura sottostante.*
+Il Finimondo è un mondo piatto ed è costituito da 2 cerchia concentriche di Macroaree come *rappresentato nella figura sottostante.*
 
 - Gli Esagoni Viola, sono la fila delle 16 Macro-aree esterne, una per ogni piano esterno della grande Ruota.
 - Gli esagoni Verdi sono la fila delle 8 Macro-aree interne, una per ogni allineamento (Tranne NN)
@@ -13,7 +13,7 @@ Il Finemondo è un mondo piatto ed è costituito da 2 cerchia concentriche di Ma
 
 <img src="../../../img/macroaree.png" width="50%"/>
 
-## Il Centro del Fine Mondo
+## Il Centro del Finimondo
 
 Al centro della Macro-Area centrale c'è una grande **Torre Azzurra**dove risiede la **Gemma Rinata del Tempo** da cui si sprigiona la **Forza Arcana** che rapisce i giocatori
 
@@ -25,19 +25,19 @@ Attorno alla **Torre Azzurra** partono 8 vettori in 8 direzioni diverse, a tot k
 
 Per Macro-Area si intende un'Area esplorabile costituita come nella figura sotto.
 
-Ogni Macro Area è racchiusa dentro una **Bolla Contenitiva**, per questa ragione si può intendere il Finemondo come un reticolo di Bolle Contenitive.
+Ogni Macro Area è racchiusa dentro una **Bolla Contenitiva**, per questa ragione si può intendere il Finimondo come un reticolo di Bolle Contenitive.
 
 Al centro di ogni Macro Area vi è un Tempio del Tempo Perduto circondato da una **Barriera Protettiva.**
 
 I giocatori quando vengono rapiti dalla Forza Arcana vengono scaraventati in un Tempio del Tempo Perduto.
 
-![quadranti.png](../../../img/quadranti.png)
+![quadranti.png](../../img/quadranti.png)
 
 ### Barriere Protettive
 
 Barriere di energia temporale più piccole che proteggono gli esagoni dove risiede il Tempio del Tempo Perduto.
 
-Sia il Palazzo del cristallo che i templi del tempio sono circondati da una Barriera Protettiva che li protegge dal caos del Finemondo.
+Sia la Torre Azzurra che i Templi del Tempo sono circondati da una Barriera Protettiva che li protegge dal caos del Finimondo.
 
 ### Confini della Macro Area
 
@@ -54,13 +54,13 @@ Se i PG si affacciano sulla cieca Eternità saranno visti dai mostri:
 
 I PG sono connessi al loro **Tempio** il quale a sua volta è connesso alla propria **Bolla Contenitiva.**
 
-La **Bolla Contenitiva** non permette ai PG di vedere cosa c'è al di là di essa. La terra esiste al di là della bolla, ma i PG non essendo connessi a quella terra se oltrepassassero il confine finirebbero sfasati e cadrebbero nella cieca eternità. L'unico modo per varcare il confine è sincronizzare la propria **Bolla Contenitiva** con una **Bolla Contenitiva** contigua. È come se il Finemondo fosse costituito da un reticolo di **Bolle Contenitive** che permette ai PG di essere sincronizzati con la propria bolla contenitiva. Un **Firewall** che li protegge dai pericoli della cieca eternità.
+La **Bolla Contenitiva** non permette ai PG di vedere cosa c'è al di là di essa. La terra esiste al di là della bolla, ma i PG non essendo connessi a quella terra se oltrepassassero il confine finirebbero sfasati e cadrebbero nella Cieca eternità. L'unico modo per varcare il confine è sincronizzare la propria **Bolla Contenitiva** con una **Bolla Contenitiva** contigua. È come se il Finimondo fosse costituito da un reticolo di **Bolle Contenitive** che permette ai PG di essere sincronizzati con la propria bolla contenitiva. Un **Firewall** che li protegge dai pericoli della cieca eternità.
 
 ## Autoctoni e Piovuti VS Bolla Contenitive
 
-Gli **autoctoni** non hanno bisogno di essere sincronizzati con le **Bolle Contenitive** e quindi possono attraversarle. Questo perché il loro DNA è già sincronizzato con il Finemondo, dato che il corpo è formato da atomi che derivano dal Finemondo. Anche i **Piovuti dal cielo** sono immuni agli effetti della **Bolla Contenitiva** in quanto risucchiati dalle voragini della **Cieca Eternità**, la quale ha ricombinato i loro Atomi.
+Gli **autoctoni** non hanno bisogno di essere sincronizzati con le **Bolle Contenitive** e quindi possono attraversarle. Questo perché il loro DNA è già sincronizzato con il Finimondo, dato che il corpo è formato da atomi che derivano dal Finimondo. Anche i **Piovuti dal cielo** sono immuni agli effetti della **Bolla Contenitiva** in quanto risucchiati dalle voragini della **Cieca Eternità**, la quale ha ricombinato i loro Atomi.
 
-Questo a gli **Eletti** non succede perché loro sono arrivati nel Finemondo tramite un metodo non convenzionale ovvero sono stati richiamati dalla **Forza Arcana,** mentre la maggior parte delle persone che abita il Finemondo è o Autoctona o Piovuta dal cielo perché divorata da una voragine sul piano materiale.
+Questo a gli **Eletti** non succede perché loro sono arrivati nel Finimondo tramite un metodo non convenzionale ovvero sono stati richiamati dalla **Forza Arcana,** mentre la maggior parte delle persone che abita il Finimondo è o Autoctona o Piovuta dal cielo perché divorata da una voragine sul piano materiale.
 
 ## Se 2 Bolle Contenitive si uniscono:
 

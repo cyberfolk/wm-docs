@@ -16,7 +16,7 @@
 - **Clima**: condizioni ricorrenti o peculiari.
 - **Luoghi**: punti d’interesse puntuali (rovine, altari, dungeon, torri).
 - **Insediamenti**: villaggi, città, avamposti.
-- **Mostri/Fichi**: creature leggendarie che caratterizzano l’esagono o aree circostanti.
+- **Mostro Leggendario**: creatura leggendaria che caratterizzano l’esagono o aree circostanti.
 - **Incontri**: eventi, viandanti, pericoli casuali o ricorrenti.
 
 ---

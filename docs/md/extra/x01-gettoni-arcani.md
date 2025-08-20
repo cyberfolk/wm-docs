@@ -14,17 +14,15 @@ _Il pozzo ragiona sulla base di quanti gettoni possiede chi fa la domanda._
 - Se qualcuno chiede *"come posso sapere la risposta?"*  
   Il pozzo risponde che con **1 gettone** si può sempre sapere il prezzo della risposta.
 
-Il PG che si prende il ruolo di _Maestro del Sapere_ riceverà i **PX%** se terrà traccia di:
+!!! warning "TODO - Maestro del Sapere"
+    Ruolo sperimentale, distinto dal Cronista. Riceve PX% se tiene traccia di:
+    
+    - Domande fatte
+    - Risposte ricevute
+    - Domande aperte
 
-- Le domande fatte
-- Le risposte ricevute
-- Le domande aperte
+    **Da definire**
 
-!!! warning "TODO"
-    Rivedere in seguito il ruolo di _Maestro del Sapere_,
-
-    - Quando precisamente deve operare in-game/off-game.
-    - Quanti PG possono ricoprire la carica e per quanto tempo.
-    - Come viene ricompensato in PX%.
-
-  
+    - Quando opera (in-game / off-game)
+    - Quanti PG possono ricoprirlo e per quanto
+    - Entità e modalità del bonus **PX%**

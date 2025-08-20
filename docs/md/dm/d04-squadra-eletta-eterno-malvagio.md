@@ -8,7 +8,7 @@ Tra le varie Squadre menzionate nell’archivio ci sta anche **la Squadra "Elett
 
 ## Il segreto dell’Eterno N1
 
-L'Eterno N1 era il braccio destro del **Cattivone Finale**, inviato in una missione suicida per sabotare il **Protocollo Ultimo**, facendo esplodere tutto. Ma durante lo scontro, il protocollo si attivò in modo anomalo, dando origine al finimondo e risucchiando ogni cosa che era li, l’impatto fu devastante, e la Gemma del tempo per limitare i danni decise di fare un reboot delle menti dei ribelli e dell’eterno N1.
+L'Eterno N1 era il braccio destro del **Cattivone Finale**, inviato in una missione suicida per sabotare il **Protocollo Ultimo**, facendo esplodere tutto. Ma durante lo scontro, il protocollo si attivò in modo anomalo, dando origine al Finimondo e risucchiando ogni cosa che era li, l’impatto fu devastante, e la Gemma del tempo per limitare i danni decise di fare un reboot delle menti dei ribelli e dell’eterno N1.
 
 ## Incendio dell’Archivio
 

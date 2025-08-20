@@ -36,7 +36,7 @@ indicando ruoli e partecipanti.
 ## Uscire in missione
 
 I PG possono lasciare la Base **solo durante le sessioni di gioco**.  
-Tra una sessione e l’altra, una **barriera magica** li vincola all’interno: nessuno può uscire, nessuno può entrare.
+Tra una sessione e l’altra, una **Barriera Protettiva** li vincola all’interno: nessuno può uscire, nessuno può entrare.
 
 Ogni missione **inizia e termina alla Base**. Per oltrepassare la barriera, il gruppo riceverà un **talismano magico**
 che consentirà loro di uscire e tornare indietro prima che sia troppo tardi.
@@ -52,5 +52,5 @@ Ogni Regione ha un determinato livello di difficoltà; e sarà compito dei gioca
 Se un PG muore, nella sessione successiva si risveglierà nelle **Cripte della Base**, senza sapere come.  
 Perderà **tutti i PX** guadagnati nella spedizione, manterrà **l’equipaggiamento** e perderà parte della sua integrità.
 
-> _Il Finemondo non è un luogo da conquistare, ma da comprendere.  
+> _Il Finimondo non è un luogo da conquistare, ma da comprendere.  
 Chi sopravvive, torna con nuove domande. Chi muore… forse lascia un indizio._

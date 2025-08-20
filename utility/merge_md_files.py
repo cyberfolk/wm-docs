@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
+import re
 
 
 def raccogli_file_md(directory):
@@ -31,6 +32,7 @@ def unisci_file_md(file_list, output_path, base_dir):
     Inserisce intestazioni tra i file, tranne che prima del primo.
     Ogni intestazione include il path relativo del file come commento HTML.
     """
+    PATTERN_3LINES = r'(?mi)^---\s*\r?\npassword:\s*.*\r?\n---\s*\r?\n?'
     with open(output_path, 'w', encoding='utf-8') as fout:
         for index, file_path in enumerate(file_list):
             if index > 0:
@@ -39,6 +41,8 @@ def unisci_file_md(file_list, output_path, base_dir):
                 fout.write(f"<!-- {rel_path} -->\n\n")
             with open(file_path, 'r', encoding='utf-8') as fin:
                 contenuto = fin.read().rstrip()
+                contenuto = re.sub(PATTERN_3LINES, '', contenuto)
+
                 fout.write(contenuto + "\n\n")
 
     print(f"[OK] File unificato scritto in: {output_path}")

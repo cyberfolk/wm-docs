@@ -22,7 +22,7 @@ Questo metodo permette di dare PX **proporzionati al livello** dei personaggi, m
 
 A fine sessione ogni PG può ricevere PX% extra per:
 
-- **Ruoli assunti** (es. Cartografo, Scriba…) → da 0 a 5% 
+- **Ruoli assunti** (es. Mappiere, Cronista…) → da 0 a 5% 
 - **Aiuti al DM o agli altri** → da 0 a 5%
 - **Roleplay** → da 0 a 5%
 

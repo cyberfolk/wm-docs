@@ -1,6 +1,6 @@
-# Echi Dal Finemondo
+# Echi Dal Finimondo
 
-🎲 **Sistema**: Dungeons & Dragons 5e (2014)  
+🎲 **Sistema**: D&D 5e (2014) → HR in adozione (2024) 
 🏜️ **Genere**: Dark Fantasy, Weird Fantasy, Magitek
 
 > _Una campagna incentrata sull'**Esplorazione**. Un nuovo mondo interamente da scoprire. Un grande Pool di giocatori

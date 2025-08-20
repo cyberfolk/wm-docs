@@ -1,6 +1,6 @@
-## ? Prompt – Generazione Fazioni Autoctone del Finemondo (Formato 1x10)
+## ? Prompt ï¿½ Generazione Fazioni Autoctone del Finimondo (Formato 1x10)
 
-Genera **10 tabelle in formato Markdown**, ciascuna contenente **una sola fazione** autoctona del **Finemondo**,
+Genera **10 tabelle in formato Markdown**, ciascuna contenente **una sola fazione** autoctona del **Finimondo**,
 relativa a **una sola macro-area non specificata**.
 
 Ogni tabella deve seguire lo schema indicato qui sotto, con **una sola riga compilata per volta**.
@@ -15,13 +15,13 @@ Ogni tabella deve seguire lo schema indicato qui sotto, con **una sola riga comp
     - Macro-area specifica
 - Le fazioni devono essere composte **esclusivamente da autoctoni**
 - Possono appartenere a uno dei seguenti tipi:
-    - Fazione, Tribù, Villaggio, Paese, Civiltà, Regno, Organizzazione, Gilda
+    - Fazione, Tribï¿½, Villaggio, Paese, Civiltï¿½, Regno, Organizzazione, Gilda
     - Oppure: Clan nomade, Setta religiosa, Compagnia mercenaria, Carovana itinerante
-- Ogni fazione può viaggiare tra le **bolle contenitive**, essendo nativa del Finemondo
+- Ogni fazione puï¿½ viaggiare tra le **bolle contenitive**, essendo nativa del Finimondo
 - Le culture devono spaziare tra:
     - Primitivo, superstizioso, isolazionista
     - Residui magitek o post-tecnologici (ma **senza sapere** di discendere da altri mondi)
-- Il tono deve evocare l’estetica **weird/dark/magitek** del Finemondo
+- Il tono deve evocare lï¿½estetica **weird/dark/magitek** del Finimondo
 - **Ogni riga deve rimanere sotto i 110 caratteri**, spazi inclusi
 
 ---
@@ -34,11 +34,11 @@ Ogni tabella deve essere **in formato Markdown** e usare il seguente schema.
 |               | Descrizione                                                                         |
 |---------------|-------------------------------------------------------------------------------------|
 | **Nome**      | (Nome evocativo e originale della fazione)                                          |
-| **Tipo**      | (Fazione / Tribù / Villaggio / Paese / Civiltà / Regno / Organizzazione / Gilda)    |
+| **Tipo**      | (Fazione / Tribï¿½ / Villaggio / Paese / Civiltï¿½ / Regno / Organizzazione / Gilda)    |
 | **Tema**      | (Concetto chiave: es. ossessione per la luce, simbiosi con funghi, culto meccanico) |
-| **Attività**  | (Cosa fanno: es. razziano, pregano, costruiscono, vagano, proteggono un sito sacro) |
-| **Zona**      | (Territorio in cui si trovano: es. cratere caldo, grotta-città, torri pendenti)     |
-| **Civiltà**   | (Grado: primitiva, superstiziosa, ritualizzata, post-tecnologica, isolazionista)    |
+| **Attivitï¿½**  | (Cosa fanno: es. razziano, pregano, costruiscono, vagano, proteggono un sito sacro) |
+| **Zona**      | (Territorio in cui si trovano: es. cratere caldo, grotta-cittï¿½, torri pendenti)     |
+| **Civiltï¿½**   | (Grado: primitiva, superstiziosa, ritualizzata, post-tecnologica, isolazionista)    |
 | **Governo**   | (Forma di potere: es. consiglio tribale, teocrazia, anarchia, matriarcato oscuro)   |
 | **Credenze**  | (Mito o fede dominante: es. culto del sangue denso, spiriti frattali, eco-memorie)  |
 | **Narrativa** | (Uso nel gioco: ostacolo, alleato ambiguo, fonte di sapere, nemico occulto, ecc.)   |

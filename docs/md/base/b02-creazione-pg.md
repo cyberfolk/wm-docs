@@ -34,7 +34,7 @@ Una volta completato il BG, **inviamelo sempre lì**: potrò aiutarti a rifinirl
 
 Il background si costruisce su due elementi fondamentali:
 
-- **L'Identità** → Chi eri prima di arrivare nel Finemondo
+- **L'Identità** → Chi eri prima di arrivare nel Finimondo
 - **La Motivazione** → Cosa ti spinge ad andare avanti
 
 Un background ben definito aiuta a calarsi meglio nel mondo di gioco. Ma **non devono essere un ostacolo**: puoi
@@ -59,7 +59,7 @@ Una motivazione ben definita soddisfi questi punti:
 - **Spinta ad agire:** &rarr; Deve motivare il PG a uscire dalla base e affrontare pericoli sempre nuovi.
 - **Ragione di vivere:** &rarr; Deve aiutarlo a non arrendersi, e trovare forza nei momenti difficili.
 - **Il passato è passato:** &rarr; Evita riferimenti a persone, oggetti o segreti del passato che “potrebbero”
-  trovarsi nel Finemondo.
+  trovarsi nel Finimondo.
 - **Nuova vita:** &rarr; Meglio se il PG voleva già cambiare vita prima di arrivare qui.
 
 Se sei bloccato, chiediti:

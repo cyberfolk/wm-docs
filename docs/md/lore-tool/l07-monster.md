@@ -36,4 +36,4 @@
 - **Drago rosso antico** → può essere *ML* puro, oppure anche *NPC/Fazione* se lo giochi con intelligenza e seguaci.
 - **Kraken** → influenza mari ed esagoni costieri.
 - **Lich leggendario** → minaccia sovrannaturale, spesso anche *NPC* e *Fazione*.
-- **Leviatano elementale** → incarnazione di una forza primo
+- **Leviatano elementale** → incarnazione di una forza primordiale

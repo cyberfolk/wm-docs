@@ -163,7 +163,7 @@ presenza, effettuando una prova di **Prova di Natura** (CD variabile per Regione
 
 - **Successo** → si scopre quali creature popolano la regione (ma **non** le si incontra direttamente).
 
-Un altro PG può aiutare solo se ha competenza in **Sopravvivenza**.   
+Un altro PG può aiutare solo se ha competenza in **Natura**.   
 ⚠️ Non si può **Perlustrare** durante il viaggio.
 
 ### Estrarre Materiali
@@ -259,7 +259,7 @@ Un **Tiro di Conoscenza** richiede un'[**Azione**] e una prova di **Arcana, Natu
 creatura.  
 Il **risultato** indica **quante info** ottieni (vedi Tabella 1), che puoi poi **spendere** scegliendo dalla Tabella 2.
 
-[Scarica infografica](../img/info-min-max3.png)
+[Scarica infografica](../../img/info-min-max3.png)
 
 *Tabella 1 – Tiro di Conoscenza*
 

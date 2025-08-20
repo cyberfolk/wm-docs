@@ -26,4 +26,4 @@ password: VAI VIA
 - Come mai se sei il custode non ricordi nulla?
 - Tempio di che divinità?
 - Se non usciamo in missione? Morirete di fame.
-- Se non rientriamo? verrete disconnessioni e morirete
+- Se non rientriamo? verrete disconnessi e morirete

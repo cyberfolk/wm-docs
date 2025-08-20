@@ -1,3 +1,3 @@
 # Trappole
 
-![danni-trappole.png](..%2F..%2Fimg%2Fdanni-trappole.png)
+![danni-trappole.png](../../img/danni-trappole.png)
