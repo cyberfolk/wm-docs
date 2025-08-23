@@ -49,7 +49,7 @@ Alcuni Eletti conoscono l'esistenza degli altri Templi, mentre altri no (ad esem
 
 I PG (Liv 3) non sono stati chiamati dalla forza arcana perché fossero gli eroi del loro mondo ma perché tra i mille futuri possibili la forza arcana ha visto che i PG avevano un ruolo importante da recitare nel Finimondo.
 
-Giocando i PG scopriranno la LORE del mondo e capiranno perché sono stati scelti proprio loro. Utilizzando Le Grandi Domande si riesce a inventare un valido motivo del perché sono stati richiamati nel Finimondo.
+Giocando i PG scopriranno la LORE del mondo e capiranno perché sono stati scelti proprio loro.
 
 ### Poteri del Talismano
 

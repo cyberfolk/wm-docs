@@ -41,7 +41,7 @@ Tra una sessione e l’altra, una **Barriera Protettiva** li vincola all’inter
 Ogni missione **inizia e termina alla Base**. Per oltrepassare la barriera, il gruppo riceverà un **talismano magico**
 che consentirà loro di uscire e tornare indietro prima che sia troppo tardi.
 
-Se a fine sessione i PG vengono catturati, o rimangono intrappolati o per un qualsiasi motivo non riescono a tornare alla base verranno inghiottiti dalle tenebre e moriranno.
+Se a fine sessione i PG vengono catturati, o rimangono intrappolati o per un qualsiasi motivo non riescono a tornare alla base verranno inghiottiti dalle tenebre e moriranno*.
 
 ## Sfide Pericolose
 

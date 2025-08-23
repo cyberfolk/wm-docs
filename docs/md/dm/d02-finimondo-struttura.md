@@ -66,6 +66,6 @@ Questo a gli **Eletti** non succede perché loro sono arrivati nel Finimondo tra
 
 Se I PG compiono determinate missioni e recupereranno determinati oggetti la **Bolla Contenitiva** si può espandere e unirsi ad una Bolla Contenitiva contigua. Fatte queste missioni si apre una strada che se seguitata li porta ad un altro Tempio del Tempo Perduto.
 
-Gli **autoctoni** e i **piovuti** sono inerti alle bolle temporali e non si accorgono di eventuali modifiche.
+Gli **autoctoni** e i **piovuti** sono inerti alle **Bolla Contenitiva** e non si accorgono di eventuali modifiche.
 
 Gli **Eletti** di un Tempio del Tempo Perduto possono entrare in un altro Tempio del Tempo Perduto solo se posseggono il talismano per accedervi. Gli Eletti del nuovo tempio potrebbero essere ostili.

@@ -4,7 +4,8 @@ password: VAI VIA
 
 # Regioni Principi Base
 
-!!! info Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
+!!! info 
+    Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
 
 ## Le 2 Tipologie di Regioni
 

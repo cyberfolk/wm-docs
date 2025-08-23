@@ -1,3 +1,7 @@
+---
+password: VAI VIA
+---
+
 # Tool Narrativi:
 
 ### Lore Bassa | LB

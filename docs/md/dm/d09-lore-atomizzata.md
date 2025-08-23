@@ -1,4 +1,10 @@
-| ENTITA-NARRATIVA               | LORE  | EVENTUALE DESCRIZIONE                                                                              |
+---
+password: VAI VIA
+---
+
+# Lore Atomizzata
+
+| ENTITA-NARRATIVA               | LAYER | EVENTUALE DESCRIZIONE                                                                              |
 |--------------------------------|-------|----------------------------------------------------------------------------------------------------|
 | Finimondo                      | Alta  | Singolarità alla fine dei tempi dove precipitano frammenti di mondi.                               |
 | Grande Gemma                   | Alta  | Gemma che imbriglia una parte del Tempo; origine dei frammenti.                                    |
@@ -33,4 +39,4 @@
 | Piovuti — Primi                | Bassa | TODO. RIVEDERE. Antiche ondate di risucchiati che conservarono memoria e fondarono tribù.          |
 | Piovuti — Nuovi                | Bassa | TODO. RIVEDERE. Nuove ondate colpite da amnesia all’arrivo.                                        |
 | Eletti (PG)                    | Bassa | TODO. RIVEDERE. Scelti/rapiti dalla Forza Arcana per rammendare o spezzare il Tempo.               |
-
+| Pozzo                          | Bassa | TODO. RIVEDERE. (POI/rituale locale; ottimo generatore di quest). che “vende risposte” a gettoni   |
