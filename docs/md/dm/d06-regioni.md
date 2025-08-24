@@ -4,8 +4,11 @@ password: VAI VIA
 
 # Regioni Principi Base
 
-!!! info 
-    Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
+!!! info Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
+
+!!! note "Scala Regione"
+**Altezza**: **18 km** *da lato a lato* .  
+**Velocità**: un party fa **36 km** in **1 giorno** ⇒ quindi in **1 Orologio** (≈ 4 ore) fa **18 km** ⇒ **1 Regione** attraversata.
 
 ## Le 2 Tipologie di Regioni
 
@@ -37,6 +40,10 @@ Come per tutte le parti di una regione, gli abitanti di una regione contribuisco
 
 Si può inserire anche un mostro leggendario, una bestia di enorme potere. Mostri leggendari dovrebbero essere in grado di essere visti provenendo da lontano, dando ai giocatori di basso livello un sacco di tempo per fuggire. Quando vanno a combattere il mostro, assicurati che sia il loro intento diretto, non solo un incontro casuale.  
 I Mostri leggendari dovrebbero essere costruiti attorno alla lore degli abitanti delle regioni circostanti.
+
+### SML — “Sfida Mortale di Livello”
+
+SML n indica la difficoltà base di un esagono. “Base” significa che gli incontri vaganti/selvatici tipici di quell’hex sono costruiti come uno Scontro Mortale per 4 PG di livello n. Non è un TPK annunciato, ma consuma molte risorse e può mettere a terra uno o più PG se gestito male. L’hex non scala col livello del party: è il party ad adattarsi all’hex.
 
 ## Tabella Biomi
 

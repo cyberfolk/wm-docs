@@ -18,6 +18,7 @@
 - **Insediamenti**: villaggi, città, avamposti.
 - **Mostro Leggendario**: creatura leggendaria che caratterizzano l’esagono o aree circostanti.
 - **Incontri**: eventi, viandanti, pericoli casuali o ricorrenti.
+- **SML**: Pericolosità dell’hex. Gli incontri selvatici sono tarati come Scontro Mortale per 4 PG di livello SML.
 
 ---
 

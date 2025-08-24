@@ -42,7 +42,7 @@ La Tabella degli Eventi Casuali varia da Regione a Regione e si adattano al tono
 ## La Mappa
 
 Il viaggio nelle terre selvagge si svolge su una **mappa esagonale**, in cui ogni esagono rappresenta una diversa
-regione da esplorare.  
+regione da esplorare. *L'altezza di un esagono equivale a circa 18 km.*  
 Ad ogni sessione, uno dei giocatori può assumere il ruolo di **Mappiere**: a lui verrà affidata una
 **[Mappa Esagonale](https://drive.google.com/file/d/1GZSYOsyshpY3sY3MjcnoWKLRxMu5N-q_/view?usp=sharing)** su cui
 annotare percorsi, scoperte e territori attraversati durante la spedizione.
