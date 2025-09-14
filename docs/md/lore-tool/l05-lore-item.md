@@ -19,14 +19,12 @@
 ---
 
 ### 🔑 Attributi minimi (schema atomico)
-- `titolo_breve` (≤ 8 parole)
+- `name`: Nome del Lore Item
+- `lore_level`: `low | high`
 - `tipo`: `leggenda | diceria | credenza | mito | paura | gioia | festa | terrore`
-- `enunciato` (1–3 frasi, chiaro nell’impatto sui PG)
-- `strato`: `autoctono | cosmico`
-- `prospettiva`: `in-world | extra-diegetica`
+- `description` (1–3 frasi, chiaro nell’impatto sui PG)
 - `attendibilità`: `voce | comune | autorevole | canonico`
 - `provenienza` (fonte/comunità)
-- `circolazione`: `segreta | ristretta | diffusa`
 - `periodo` (opz., utile per *feste*)
 - `funzione_narrativa` (tag: es. *presagio, identitaria, minaccia, conforto, prova, hook*)
 - `motivi/temi` (tag)
