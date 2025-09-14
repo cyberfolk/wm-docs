@@ -5,7 +5,7 @@
 ### ✅ Cosa è
 
 - Unità atomica **materiale**: arma, reliquia, gemma, tomo, mappa, chiave, idolo, ecc.
-- Può essere **unico** (artefatto) o **replicabile** (oggetto raro/comune); come per Mostro abbiamo “specie vs istanza”.
+- Può essere **unico** (artefatto) o **replicabile** (oggetto raro/comune);
 
 ### 📌 Funzione nel gioco
 

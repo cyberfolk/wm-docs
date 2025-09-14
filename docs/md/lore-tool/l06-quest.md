@@ -8,7 +8,7 @@
 ### ✅ Cosa è
 
 - Una **unità narrativa azionabile**: qualcosa che i PG possono scegliere di fare, non solo un tema o uno stato del mondo.
-- Può nascere da **qualsiasi entità narrativa** (*NPC, Fazione, Mostro, Insediamento, Hex, POI, Lore Item*).
+- Può nascere da **qualsiasi entità narrativa** (*NPC, Fazione, Mostro, Insediamento, Hex, POI, Artefatto, Lore Item*).
 - È distinta dal puro contesto: *“la città è in guerra”* è uno stato del mondo, mentre *“difendere le mura entro l’alba”* è una quest.
 
 ---

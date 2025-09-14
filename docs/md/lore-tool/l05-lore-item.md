@@ -27,7 +27,6 @@
 - `attendibilità`: `voce | comune | autorevole | canonico`
 - `provenienza` (fonte/comunità)
 - `circolazione`: `segreta | ristretta | diffusa`
-- `volatilità`: `effimera | stabile | ritualizzata`
 - `periodo` (opz., utile per *feste*)
 - `funzione_narrativa` (tag: es. *presagio, identitaria, minaccia, conforto, prova, hook*)
 - `motivi/temi` (tag)
