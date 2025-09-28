@@ -27,5 +27,16 @@
 
 - **Formato:** `<PREFISSO><slug>` — lo slug è **minuscolo**, con trattini `_` o , senza spazi/accents: `POI_ponte_nero`, `FZ_fronda_sorgiva`.
 - **Univocità:** mantieni gli ID stabili; niente duplicati. Se serve, aggiungi suffissi: `POI_ponte_nero_b03`.
-- **Scope:** se l’entità esiste in più esagoni, **riusa lo stesso ID** e collegala via `relazioni`.
-- **Prefissi liberi:** usiamo quelli proposti sopra; puoi introdurre lievi varianti coerenti se davvero necessario (ma sconsigliato).
+
+## Campi comuni (Mixin)
+
+Tutte le entità narrative ereditano questi attributi base:
+
+- **Nome** (`name`) → identificativo leggibile.
+- **Descrizione** (`description`) → testo libero in HTML.
+- **Immagine** (`image`) → rappresentazione visiva.
+- **Codice** (`code`) → generato automaticamente con prefisso + slug.
+- **Lore Level** (`lore_level`) → `Alta | Bassa`, distingue tra lore accessibile ai PG e lore alta/metanarrativa.
+- **Stato Revisione** (`revision_status`) → livello di revisione del contenuto (`Da rivedere | Abbastanza sicuro | Confermato`).
+
+📌 Questi campi sono sempre presenti, indipendentemente dal tipo di entità (Fazione, NPC, POI, Quest, ecc.).

@@ -9,26 +9,41 @@
 - Rappresenta **creature iconiche** che trascendono l’idea di “mostro casuale”.
 - Sono entità che **definiscono il territorio**: la loro sola esistenza plasma l’ambiente circostante (es. un drago rosso che incenerisce vallate intere).
 - Servono come **punti di riferimento narrativi**: non un incontro qualunque, ma “il mostro di quella regione”.
+- **Campo chiave Odoo** → `is_legendary` = True
 
 ### 🔗 Relazioni con le altre entità
 
-- **NPC**: se la creatura è **interagibile socialmente** e ha **volontà autonoma**, allora può essere anche classificata come NPC (es. un drago antico parlante).
-- **Fazione**: se guida agenti o seguaci, diventa anche una fazione (tag utile: *leader-creatura*).
-- **Hex**: un **ML** può estendere la sua influenza oltre un singolo hex, ma il suo **cuore narrativo** resta localizzato.
-- **Quest**: spesso genera missioni di grande rilievo (caccia, alleanza, sopravvivenza).
+- **Fazioni** (`faction_monster_ids`) → la creatura può guidare o essere temuta da una fazione (*es. culto draconico, orde non-morte*).
+- **NPC** (`npc_monster_ids`) → individui che interagiscono col mostro (alleati, rivali, emissari).
+- **Quest** (`quest_monster_ids`) → missioni di rilievo legate al ML (caccia, sopravvivenza, trattative, vendette).
+- **POI** (`poi_monster_ids`) → luoghi simbolici influenzati dal ML (tane, rovine, templi profanati).
+- **Insediamenti** (`settlement_monster_ids`) → comunità sotto la sua minaccia o dominio.
+- **Lore Item** (`lore_item_monster_ids`) → miti, profezie o leggende che circolano sul suo conto.
+- **Artefatti** (`artifact_monster_ids`) → oggetti legati alla sua origine, potere o possibile sconfitta.
+- **Creature base** (`creature_monster_ids`) → specie subordinate o servitrici che popolano il suo seguito.
+- **Mostri Leggendari** (`monster_monster_ids`) → legami con altri ML (alleanze, rivalità, stirpi condivise).
+- **Hex** → un ML può estendere la sua influenza oltre un esagono, ma ha sempre un *cuore narrativo* localizzato.
 
-### 🧭 Heuristica pratica
+### 🔄 Modello polimorfico
 
-- **Solo minaccia ecologica** → resta *ML* puro (es. Tarrasque).
-- **Può interagire socialmente** → è anche *NPC*.
-- **Guida seguaci** → è anche *Fazione*.
-- In database: il record del ML può linkare a un NPC o a una creatura del bestiario, ma l’etichetta *ML* lo evidenzia come **cardine narrativo regionale**.
+Questa entità narrativa utilizza il modello `creature.creature`, il quale viene usato anche per **Creature Base** e **NPC**.  
+La natura del modello è **polimorfica** e viene gestita dai seguenti flag:
+
+- `is_legendary = True` → Mostro Leggendario
+- `is_npc = True` → NPC
+- entrambi attivi → creatura **sia ML che NPC** (es. drago antico parlante, lich sovrano).
 
 ### 📌 Funzione nel gioco
 
 - Fornisce **sfide memorabili** e **rischi estremi**.
 - Incapsula l’idea di “leggenda vivente” → i PG sentono parlare della creatura prima di incontrarla.
 - Serve come **ancora narrativa**: qualcosa che “fa parlare di sé” in tutto il territorio.
+
+### 🧭 Heuristica pratica
+
+- **ML puro** → solo minaccia ecologica (es. Tarrasque).
+- **ML + NPC** → se è socialmente interagibile (es. drago parlante, lich).
+- **ML + Fazione** → se guida seguaci o culti.
 
 ### 🌍 Esempi
 

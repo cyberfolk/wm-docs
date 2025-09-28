@@ -1,7 +1,7 @@
 # Quest
 
 > Missione che i PG possono intraprendere, sempre caratterizzato da **Hook** e **Obiettivo**, con possibilità di includere **Passaggi chiave**, **Ricompense** e **Rischi** (anche se a volte impliciti).
-> 
+
 
 ---
 
@@ -11,43 +11,34 @@
 - Può nascere da **qualsiasi entità narrativa** (*NPC, Fazione, Mostro, Insediamento, Hex, POI, Artefatto, Lore Item*).
 - È distinta dal puro contesto: *“la città è in guerra”* è uno stato del mondo, mentre *“difendere le mura entro l’alba”* è una quest.
 
----
-
-### 🔑 Attributi
-
-*Gli attributi **non sono secondari**, ma **criteri primari** per discriminare cosa è Quest e cosa no.*
-
-Sono obbligatori **a livello concettuale**, ma accettando che possano essere anche **implicitati** (*hook = sopravvivenza, ricompensa = non morire*).
-
-1. **Hook** → il gancio, il motivo per cui i PG si interessano (curiosità, sopravvivenza, dovere, ricompensa).
-2. **Obiettivo** → cosa bisogna fare, in termini chiari e raggiungibili.
-3. **Passaggi chiave** → (facoltativo) micro-task o dettagli operativi che chiariscono meglio l’obiettivo.
-4. **Ricompense** → ciò che si ottiene se la quest viene completata (oro, prestigio, conoscenze, alleanze).
-5. **Rischi** → ciò che si rischia se la quest viene fallita o ignorata (perdita, morte, maledizione, rovina sociale).
-
----
-
 ### 🚫 Cosa non è
 
 - **Non è un tema** → *“scoprire la verità sull’universo”* è troppo astratto.
 - **Non è uno stato del mondo** → *“la città è in guerra”* è contesto, non un compito.
 - **Non è solo colore** → una festa è *Lore*, diventa quest solo se implica un compito: *“offrire un dono entro il tramonto”*.
 
----
+## 🔑 Attributi Narrativi
+
+- **Stato** (`state`) → andamento della missione (*ongoing, completed, failed*…).
+- **Hook** (`hook`) → gancio narrativo che cattura l’interesse dei PG.
+- **Obiettivo** (`objective`) → compito chiaro e raggiungibile.
+- **Passaggi chiave** (`key_steps`) → micro-task o fasi intermedie.
+- **Ricompense** (`rewards`) → benefici concreti o simbolici per i PG.
+- **Rischi** (`risks`) → cosa succede in caso di fallimento o abbandono.
 
 ### 🔗 Relazioni con le altre entità
 
-- **NPC** → sono spesso il volto o il mandante della quest.
-- **Fazioni** → possono commissionare missioni o generare conflitti.
-- **Lore Item** → una diceria può trasformarsi in quest (*“si dice che nelle paludi ci sia un tesoro nascosto”*).
-- **POI/Hex** → esplorare un sito o superare un ostacolo è di per sé una quest.
-- **Mostro Leggendario (ML)** → la presenza di una creatura può generare quest implicite (*“cacciarla”, “negoziare”, “sopravvivere”*).
-- **Insediamento** → genera quest legate ai bisogni della comunità (difesa, approvvigionamento, politica locale).
+- **NPC** (`npc_ids`) → volti e mandanti delle missioni.
+- **Fazioni** (`faction_ids`) → commissionano, ostacolano o influenzano la quest.
+- **Insediamenti** (`settlement_ids`) → generano missioni legate ai bisogni della comunità.
+- **POI** (`poi_ids`) → luoghi che diventano obiettivi narrativi.
+- **Lore Item** (`lore_item_ids`) → voci, dicerie o miti che si trasformano in missioni.
+- **Artefatti** (`artifact_ids`) → reliquie da trovare, proteggere o distruggere.
+- **Creature** (`creature_ids`) → sfide o alleati nel corso della quest.
+- **Mostri Leggendari** (`monster_ids`) → spesso al centro di missioni epiche.
 
----
+### 📌 Funzione nel gioco
 
-### ⚖️ Vantaggi della definizione
-
-1. **Chiarezza operativa** → i 4+1 attributi (Hook, Obiettivo, Passaggi chiave, Ricompense, Rischi) fungono da *test rapido* per dire se qualcosa è una quest o no.
-2. **Atomicità** → ogni quest è un’entità autonoma, riusabile nei prompt futuri.
-3. **Flessibilità** → gli attributi possono essere impliciti (es. *hook = sopravvivenza, ricompensa = non morire*), così anche le quest emergenti hanno spazio.
+- Introduce **obiettivi concreti** che guidano l’azione dei PG.
+- Genera **sfide, rischi e ricompense** che alimentano il ciclo di gioco.
+- Collega in maniera **dinamica** tutte le altre entità narrative (luoghi, fazioni, NPC, lore).

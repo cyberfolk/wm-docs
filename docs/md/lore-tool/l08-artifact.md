@@ -5,24 +5,37 @@
 ### ✅ Cosa è
 
 - Unità atomica **materiale**: arma, reliquia, gemma, tomo, mappa, chiave, idolo, ecc.
-- Può essere **unico** (artefatto) o **replicabile** (oggetto raro/comune);
+- Può essere **unico** (*artefatto vero e proprio*) o **replicabile** (oggetto raro o comune di valore narrativo).
+- È un **pivot narrativo**: può innescare conflitti, cambiare rapporti di potere o custodire tradizioni.
+
+### 🚫 Cosa non è
+
+- **Non è un oggetto qualsiasi** → una coppa di legno comune resta dettaglio descrittivo.
+- **Non è solo “colore“** → diventa entità solo se porta effetti, valore simbolico o conflitti.
+- **Non è per forza magico** → può avere valore religioso, sociale o politico.
+
+### 🔑 Attributi Narrativi
+
+[TODO]
+
+### 🔗 Relazioni con le altre entità
+
+- **Fazioni** (`faction_ids`) → lo custodiscono o lo cercano per consolidare il potere.
+- **NPC** (`npc_ids`) → custodi, ricercatori o utilizzatori.
+- **Insediamenti** (`settlement_ids`) → possono ospitarlo o dipendere dalla sua presenza.
+- **POI** (`poi_ids`) → luoghi dove è nascosto, venerato o custodito.
+- **Lore Item** (`lore_item_ids`) → miti, profezie o tradizioni legati all’artefatto.
+- **Quest** (`quest_ids`) → missioni di recupero, difesa o distruzione.
+- **Creature** (`creature_ids`) → guardiani o portatori.
+- **Mostri Leggendari** (`monster_ids`) → spesso associati o vincolati a un artefatto.
 
 ### 📌 Funzione nel gioco
 
+- Fornisce **obiettivi concreti** attorno a cui ruotano missioni e conflitti.
 - Colma un vuoto: molte **quest** e **lore** orbitano attorno a **cose** (non solo persone/luoghi).
-- È un **pivot di gioco**: innesca scelte, conflitti tra fazioni, cambi di potere.
-
-### 🔗 Schema minimo (campi suggeriti)
-
-- `id`, `nome`, `categoria` (arma, reliquia, chiave, tomo, gemma…), `unico` (bool)
-- `effetto_meccanico` (breve), `potere/limite` (tag), `costo/prezzo` (opz.)
-- `simbolismo` (perché è desiderato: status, fede, mito)
-- `rischi/maledizioni` (opz.)
-- `provenienza` (fazione/insediamento/luogo), `stato` (smarrito, custodito, rotto)
-- **Relazioni**: `rel_fazione_ids`, `rel_npc_ids`, `rel_poi_ids`, `rel_hex_ids`, `rel_lore_ids`, `rel_quest_ids`
-- Pattern **specie/istanza** (opz.): `oggetto_tipo_id` ↔ `oggetto_istanza` (per l’Artefatto specifico)
+- Permette **riconfigurazioni di potere**: chi possiede l’artefatto può cambiare i rapporti tra fazioni o insediamenti.
 
 ### 🧭 Heuristica pratica
 
-- Se l’oggetto **cambia l’equilibrio** tra fazioni o abilita nuove azioni dei PG → è entità.
+- Se l’oggetto **cambia l’equilibrio narrativo** o abilita nuove azioni ai PG → è un *Artefatto*.
 - Se è solo colore (una coppa qualsiasi) → rimane dettaglio di descrizione, non entità.
