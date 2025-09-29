@@ -4,11 +4,12 @@ password: VAI VIA
 
 # Regioni Principi Base
 
-!!! info Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
+!!! info
+    Qui sono contenute solo **Linee Guida** e **Procedure per i DM**.
 
 !!! note "Scala Regione"
-**Altezza**: **18 km** *da lato a lato* .  
-**Velocità**: un party fa **36 km** in **1 giorno** ⇒ quindi in **1 Orologio** (≈ 4 ore) fa **18 km** ⇒ **1 Regione** attraversata.
+    **Altezza**: **18 km** *da lato a lato* .  
+    **Velocità**: un party fa **36 km** in **1 giorno** ⇒ quindi in **1 Orologio** (≈ 4 ore) fa **18 km** ⇒ **1 Regione** attraversata.
 
 ## Le 2 Tipologie di Regioni
 
