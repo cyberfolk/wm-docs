@@ -6,34 +6,30 @@ password: VAI VIA
 
 ## Formato degli identificatori
 
-**ID tecnico** (univoco)
+**Codice**
 
 ```
-HX-[MA]-[Q]-[R].[I]-[BIO]-SML[X]
+[MA]-[Q].[R].[I]
 ```
 
-**Alias breve**
+**Codice Completo**
 
 ```
-[MA]-[Q]-[R].[I]
+[Alias breve]-[BIO]-SML[X]
 ```
 
-**Titolo umano**
+**Codice Completo Leggibile**
 
 ```
 [Alias breve] — [Bioma leggibile] (SML[X])
 ```
-
-**Sottotitolo discorsivo**
-
-Una riga che *“spiega a parole”* cosa c’è nell’esagono.
 
 ---
 
 ## Campi e valori ammessi
 
 * **\[MA] MacroArea**
-  `C` (Centro), `I01…I08` = interne, `E01…O16` = esterne. 
+  `C` (Centro), `I01…I08` = interne, `E01…E16` = esterne.
 
 * **\[Q] Quadrante**
   Lettera maiuscola `A…U`.
@@ -54,44 +50,12 @@ Una riga che *“spiega a parole”* cosa c’è nell’esagono.
 * **SML\[X]**
   **Obbligatorio**. Se assente, **interrompi la generazione** e richiedi di ripassare lo YAML “con SML”.
 
-* **Discorsivo**
-  Campo testo obbligatorio (1–2 frasi, niente spoiler di *Lore Alta*).
-  *Applica la blacklist LA→LB (es.: “gemma cosmica” → “reliquia locale”).*
-
----
-
-## Regole di validazione
-
-**Slug completo (ID tecnico):**
-
-```
-^HX-(?:C|I0[1-8]|O0[1-9]|O1[0-6])-[A-U]-(?:0\.0|1\.[1-6]|2\.(?:[1-9]|1[0-2]))-[A-Z]{3}-SML[0-9]+$
-```
-
-**Alias breve:**
-
-```
-^(?:C|I0[1-8]|O0[1-9]|O1[0-6])-[A-U]-(?:0\.0|1\.[1-6]|2\.(?:[1-9]|1[0-2]))$
-```
-
-**Coerenza R/I:**
-
-  * Se `R=0` → `I=0`
-  * Se `R=1` → `I ∈ [1..6]`
-  * Se `R=2` → `I ∈ [1..12]`
-
 ---
 
 ## Esempi canonici
 
-* `HX-I03-A-0.0-FOR-SML2`
-  **I03-A-0.0 — Foresta Nebbiosa (SML 2)**
-  *“Abetaia fitta con altare di licheni; ululati in lontananza.”*
+* `C-A-0.0-FOR-SML2` =   **C-A.0.0 — Foresta Nebbiosa (SML 2)**
 
-* `HX-O12-M-1.4-PAL-SML3`
-  **O12-M-1.4 — Palude Salmastra (SML 3)**
-  *“Passerella di tronchi marci; fuochi fatui al crepuscolo.”*
+* `I03-M-1.4-PAL-SML3` =   **I03-M.1.4 — Palude Salmastra (SML 3)**
 
-* `HX-I07-F-2.11-COL-SML1`
-  **I07-F-2.11 — Colline Ventose (SML 1)**
-  *“Menhir caduto e tracce fresche di capri selvatici.”*
+* `E09-F-2.11-COL-SML1` =   **E09-F.2.11 — Colline Ventose (SML 1)**
