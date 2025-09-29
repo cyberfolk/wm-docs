@@ -9,19 +9,19 @@ password: VAI VIA
 **Codice**
 
 ```
-[MA]-[Q].[R].[I]
+[Q].[R].[I]
 ```
 
 **Codice Completo**
 
 ```
-[Alias breve]-[BIO]-SML[X]
+[MA].[Codice].[BIO].SML[X]
 ```
 
 **Codice Completo Leggibile**
 
 ```
-[Alias breve] — [Bioma leggibile] (SML[X])
+[MA].[Codice] — [Bioma leggibile] (SML[X])
 ```
 
 ---
@@ -54,8 +54,8 @@ password: VAI VIA
 
 ## Esempi canonici
 
-* `C-A-0.0-FOR-SML2` =   **C-A.0.0 — Foresta Nebbiosa (SML 2)**
+* `C.A.0.0.FOR.SML2` =   **C-A.0.0 — Foresta Nebbiosa (SML 2)**
 
-* `I03-M-1.4-PAL-SML3` =   **I03-M.1.4 — Palude Salmastra (SML 3)**
+* `I03.M.1.4.PAL.SML3` =   **I03-M.1.4 — Palude Salmastra (SML 3)**
 
-* `E09-F-2.11-COL-SML1` =   **E09-F.2.11 — Colline Ventose (SML 1)**
+* `E09.F.2.11.COL.SML1` =   **E09-F.2.11 — Colline Ventose (SML 1)**
